@@ -11,7 +11,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kontenlaris-studio&label=PROFILE%20VIEWS&color=FF7A00&style=for-the-badge)
-[![X](https://img.shields.io/badge/X-@Kontenlarisstd-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kontenlarisstd)
 [![Email](https://img.shields.io/badge/Email-kontenlaris.studio%40gmail.com-FF7A00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontenlaris.studio@gmail.com)
 [![Store](https://img.shields.io/badge/Store-Lynk.id-0A1931?style=for-the-badge&logo=shopping-bag&logoColor=white)](https://lynk.id/jamaludin97)
 
@@ -120,7 +119,6 @@
 Need a **Telegram bot**, **Mini App**, **website** or **AI automation** built fast and run reliably?
 
 - 📩 **kontenlaris.studio@gmail.com**
-- 🐦 **[@Kontenlarisstd](https://x.com/Kontenlarisstd)** on X
 - 🛍️ Digital products & booking: **[lynk.id/jamaludin97](https://lynk.id/jamaludin97)**
 - 📖 New to make.fun? Read my **[getting-started guide](https://github.com/kontenlaris-studio/makefun-getting-started)**
 
