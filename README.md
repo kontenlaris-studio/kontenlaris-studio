@@ -97,13 +97,17 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Live Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kontenlaris-studio/kontenlaris-studio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kontenlaris-studio&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
+
+<!-- 🐍 Contribution Snake — activates automatically once GitHub Actions is enabled on this repo (workflow: .github/workflows/snake.yml)
+<img src="https://raw.githubusercontent.com/kontenlaris-studio/kontenlaris-studio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+-->
 
 ---
 
