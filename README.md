@@ -85,7 +85,7 @@
 
 ## Try My AI Apps — Live on SkillSafe
 
-Ten of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
+Eleven of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
 
 | App | What it does |
 |---|---|
@@ -99,8 +99,9 @@ Ten of my projects are published as security-scanned skills with hosted apps on 
 | [Skill Auditor](https://skill-auditor.skillsafe.ai) | A graded A–F security verdict for any AI skill, with evidence |
 | [Trend Scout](https://trend-scout.skillsafe.ai) | What actually happened around a topic in the last 30 days — dated, sourced signals |
 | [Talking-Head Studio](https://talking-head-studio.skillsafe.ai) | Script → caption pack, timed SRT subtitles and a render plan for faceless videos |
+| [Buyer Panel](https://buyer-panel.skillsafe.ai) | Five simulated buyers score your product page and quote the line that lost them |
 
-Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_uln9q677gs45) · [trend-scout](https://skillsafe.ai/share/shr_c4tajc04d7qn) · [talking-head-kit](https://skillsafe.ai/share/shr_1f3fn1v0siv1)
+Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_uln9q677gs45) · [trend-scout](https://skillsafe.ai/share/shr_c4tajc04d7qn) · [talking-head-kit](https://skillsafe.ai/share/shr_1f3fn1v0siv1) · [buyer-panel](https://skillsafe.ai/share/shr_515tloxmrn4b)
 
 ---
 
