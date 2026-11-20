@@ -86,7 +86,7 @@ Eight of my projects are published as security-scanned skills with hosted apps o
 | [Telegram Bot Monetization Planner](https://telegram-bot-monetization-planner.skillsafe.ai) | Turn a bot idea into a Telegram Stars credit business plan |
 | [Skill Auditor](https://skill-auditor.skillsafe.ai) | A graded A–F security verdict for any AI skill, with evidence |
 
-Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_ovqmm0c2f7ql) · [git-forge](https://skillsafe.ai/share/shr_pa5dn4m2eh65) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_zg9x1zp6skc9) · [token-radar](https://skillsafe.ai/share/shr_bgqmtsl7wn2r) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_b4ya70n5chxg)
+Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_b4ya70n5chxg)
 
 ---
 
