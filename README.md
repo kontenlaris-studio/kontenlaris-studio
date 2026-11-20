@@ -72,7 +72,7 @@
 
 ## 🤖 Try My AI Apps — Live on SkillSafe
 
-Five of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
+Eight of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
 
 | App | What it does |
 |---|---|
@@ -81,8 +81,11 @@ Five of my projects are published as security-scanned skills with hosted apps on
 | [Git Forge Guide](https://git-forge-guide.skillsafe.ai) | How to build git smart HTTP, REST, GraphQL and MCP forge surfaces |
 | [Launch Viewership Forecaster](https://launch-viewership-forecaster.skillsafe.ai) | Quantile forecasts for launch-day Twitch viewership, hours 2–24 |
 | [Pre-Token Screener](https://pre-token-screener.skillsafe.ai) | Score a pre-token DeFi protocol: TVL × category multiple, momentum & age |
+| [InvoiceKit Maker](https://invoicekit-maker.skillsafe.ai) | A clean invoice with exact totals — subtotal, discount, tax, total due |
+| [Telegram Bot Monetization Planner](https://telegram-bot-monetization-planner.skillsafe.ai) | Turn a bot idea into a Telegram Stars credit business plan |
+| [Skill Auditor](https://skill-auditor.skillsafe.ai) | A graded A–F security verdict for any AI skill, with evidence |
 
-Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_ovqmm0c2f7ql) · [git-forge](https://skillsafe.ai/share/shr_pa5dn4m2eh65) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_zg9x1zp6skc9) · [token-radar](https://skillsafe.ai/share/shr_bgqmtsl7wn2r)
+Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_ovqmm0c2f7ql) · [git-forge](https://skillsafe.ai/share/shr_pa5dn4m2eh65) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_zg9x1zp6skc9) · [token-radar](https://skillsafe.ai/share/shr_bgqmtsl7wn2r) · [invoice-generator](https://skillsafe.ai/share/shr_s5v0p0b4fkq9) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_b4ya70n5chxg)
 
 ---
 
