@@ -112,8 +112,6 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1931?style=for-the-badge&logo=githubactions&logoColor=FF7A00)
 ![MCP](https://img.shields.io/badge/MCP-0A1931?style=for-the-badge&logo=modelcontextprotocol&logoColor=FF7A00)
-![REST API](https://img.shields.io/badge/REST_API-0A1931?style=for-the-badge&logo=openapiinitiative&logoColor=FF7A00)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-0A1931?style=for-the-badge&logo=googlechrome&logoColor=FF7A00)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0A1931?style=for-the-badge&logo=githubpages&logoColor=FF7A00)
 
 </div>
@@ -133,7 +131,7 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kontenlaris-studio&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=kontenlaris-studio" alt="Trophies"/>
 
 </div>
 
