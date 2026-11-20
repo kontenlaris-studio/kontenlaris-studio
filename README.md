@@ -11,7 +11,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kontenlaris-studio&label=PROFILE%20VIEWS&color=FF7A00&style=for-the-badge)
-[![Email](https://img.shields.io/badge/Email-kontenlaris.studio%40gmail.com-FF7A00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontenlaris.studio@gmail.com)
+[![Work With Me](https://img.shields.io/badge/WORK_WITH_ME-Open_for_Premium_Projects-FF7A00?style=for-the-badge&labelColor=0A1931)](mailto:kontenlaris.studio@gmail.com)
 
 </div>
 
