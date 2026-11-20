@@ -70,6 +70,7 @@
 - **kontenlaris CLI** — agent-native command line for all my tools (invoice · ringkas · audit · tokens): [github.com/kontenlaris-studio/kontenlaris-cli](https://github.com/kontenlaris-studio/kontenlaris-cli)
 - **Indonesia Business Kit (MCP)** — terbilang, PPN, holiday-aware due dates & more for AI agents: [github.com/kontenlaris-studio/indonesia-business-kit](https://github.com/kontenlaris-studio/indonesia-business-kit)
 - **Kontenlaris Skills Pack** — all 12 public skills in one repo: [github.com/kontenlaris-studio/kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills)
+- **Talking-Head Video Kit** — script + photo + voice → vertical talking videos: [kontenlaris-studio.github.io/talking-head-kit](https://kontenlaris-studio.github.io/talking-head-kit/)
 - **Warung Tycoon** — free idle game: [kontenlaris-studio.github.io/warung-tycoon](https://kontenlaris-studio.github.io/warung-tycoon/)
 - **ClipSmith** — transcript → Shorts/Reels clip plans: [kontenlaris-studio.github.io/clipsmith](https://kontenlaris-studio.github.io/clipsmith/)
 - **Starter Kit UMKM Digital** — InvoiceKit + n8n + spreadsheet bundle: [kontenlaris-studio.github.io/starter-kit-umkm](https://kontenlaris-studio.github.io/starter-kit-umkm/)
