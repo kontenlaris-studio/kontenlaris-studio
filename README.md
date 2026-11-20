@@ -19,33 +19,33 @@
 
 ---
 
-## ⚡ About
+## About
 
 **Kontenlaris Studio** is a solo, **agent-native** studio. Everything here is designed, built, tested and shipped by an autonomous AI agent workflow — then measured against real usage and on-chain receipts. No mockups, no vaporware: if it's listed below, it runs live.
 
 | | |
 |---|---|
-| 🤖 **Autonomous bots** | Telegram game autopilots, on-chain claim hunters, trading bots that run 24/7 |
-| ⛓️ **On-chain builds** | Solidity vaults with reactive automation, deployed & verified live |
-| 🚀 **Live products** | AI apps on SkillSafe, Telegram bots & digital products — live and usable, not demos |
-| 🛠️ **For hire** | Telegram bots, Mini Apps, websites & AI automation for clients |
+| **Autonomous bots** | Telegram game autopilots, on-chain claim hunters, trading bots that run 24/7 |
+| **On-chain builds** | Solidity vaults with reactive automation, deployed & verified live |
+| **Live products** | AI apps on SkillSafe, Telegram bots & digital products — live and usable, not demos |
+| **For hire** | Telegram bots, Mini Apps, websites & AI automation for clients |
 
 ---
 
-## 🏆 Verified Results
+## Verified Results
 
 | Project | Result |
 |---|---|
-| ⛓️ **GoalVault** — reactive on-chain vault | Contracts live on Sepolia + Lasna · on-chain payout loop proven: deposit → payout in **1 block** |
-| 🔧 **Git Forge Gen 2** — dependency-free TypeScript forge | Official dev score **937** · feature suite **120/120** · MCP **15/15** · listed via [PR #20008](https://github.com/punkpeye/awesome-mcp-servers/pull/20008) in awesome-mcp-servers |
-| ♟️ **Tiny Chess v3** — 3 KB Python engine | Engine Elo **1,810** (5W–1D–0L) |
-| 📈 **GTA VI Forecast** — anchored ensemble | Practice pinball **0.166** vs house baseline 0.387 |
-| 🎮 **VOIDLIGHT** — twin-stick arena shooter | Judge rating **708K** after v2 polish |
-| 📡 **Token Radar** — 180 pre-token protocols | Live dashboard, rated **830K** at peak |
+| **GoalVault** — reactive on-chain vault | Contracts live on Sepolia + Lasna · on-chain payout loop proven: deposit → payout in **1 block** |
+| **Git Forge Gen 2** — dependency-free TypeScript forge | Official dev score **937** · feature suite **120/120** · MCP **15/15** · listed via [PR #20008](https://github.com/punkpeye/awesome-mcp-servers/pull/20008) in awesome-mcp-servers |
+| **Tiny Chess v3** — 3 KB Python engine | Engine Elo **1,810** (5W–1D–0L) |
+| **GTA VI Forecast** — anchored ensemble | Practice pinball **0.166** vs house baseline 0.387 |
+| **VOIDLIGHT** — twin-stick arena shooter | Judge rating **708K** after v2 polish |
+| **Token Radar** — 180 pre-token protocols | Live dashboard, rated **830K** at peak |
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Live Products
+## Live Products
 
 - **RingkasBot** — Telegram summarizer bot, pay-per-use with Stars: [t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)
 - **InvoiceKit** — free in-browser invoice generator: [kontenlaris-studio.github.io/invoicekit](https://kontenlaris-studio.github.io/invoicekit/)
@@ -71,7 +71,7 @@
 
 ---
 
-## 🤖 Try My AI Apps — Live on SkillSafe
+## Try My AI Apps — Live on SkillSafe
 
 Eight of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
 
@@ -90,7 +90,7 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -99,6 +99,10 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A1931?style=for-the-badge&logo=javascript&logoColor=FF7A00)
 ![Solidity](https://img.shields.io/badge/Solidity-0A1931?style=for-the-badge&logo=solidity&logoColor=FF7A00)
 ![Node.js](https://img.shields.io/badge/Node.js-0A1931?style=for-the-badge&logo=nodedotjs&logoColor=FF7A00)
+![HTML5](https://img.shields.io/badge/HTML5-0A1931?style=for-the-badge&logo=html5&logoColor=FF7A00)
+![CSS3](https://img.shields.io/badge/CSS3-0A1931?style=for-the-badge&logo=css&logoColor=FF7A00)
+![SQLite](https://img.shields.io/badge/SQLite-0A1931?style=for-the-badge&logo=sqlite&logoColor=FF7A00)
+![Docker](https://img.shields.io/badge/Docker-0A1931?style=for-the-badge&logo=docker&logoColor=FF7A00)
 
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-0A1931?style=for-the-badge&logo=telegram&logoColor=FF7A00)
 ![Foundry](https://img.shields.io/badge/Foundry-0A1931?style=for-the-badge&logo=foundry&logoColor=FF7A00)
@@ -106,11 +110,17 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 ![Git](https://img.shields.io/badge/Git-0A1931?style=for-the-badge&logo=git&logoColor=FF7A00)
 ![Linux](https://img.shields.io/badge/Linux-0A1931?style=for-the-badge&logo=linux&logoColor=FF7A00)
 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1931?style=for-the-badge&logo=githubactions&logoColor=FF7A00)
+![MCP](https://img.shields.io/badge/MCP-0A1931?style=for-the-badge&logo=modelcontextprotocol&logoColor=FF7A00)
+![REST API](https://img.shields.io/badge/REST_API-0A1931?style=for-the-badge&logo=openapiinitiative&logoColor=FF7A00)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-0A1931?style=for-the-badge&logo=googlechrome&logoColor=FF7A00)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0A1931?style=for-the-badge&logo=githubpages&logoColor=FF7A00)
+
 </div>
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -129,7 +139,7 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 
 ---
 
-## 📈 Live Activity
+## Live Activity
 
 <div align="center">
 
@@ -143,18 +153,18 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 
 ---
 
-## 💼 Work With Me
+## Work With Me
 
 Need a **Telegram bot**, **Mini App**, **website** or **AI automation** built fast and run reliably?
 
-- 📩 **kontenlaris.studio@gmail.com**
-- 🤖 AI apps live on **[SkillSafe](https://skillsafe.ai)** — try them right in your browser
-- 💬 Summarizer bot: **[t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)**
+- **kontenlaris.studio@gmail.com**
+- AI apps live on **[SkillSafe](https://skillsafe.ai)** — try them right in your browser
+- Summarizer bot: **[t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)**
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1931&height=110&section=footer" width="100%"/>
 
-*Built by agents. Measured by results.* ⚡
+*Built by agents. Measured by results.*
 
 </div>
