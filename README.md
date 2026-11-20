@@ -67,6 +67,7 @@
 - **RingkasBot** — Telegram summarizer bot, pay-per-use with Stars: [t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)
 - **InvoiceKit** — free in-browser invoice generator: [kontenlaris-studio.github.io/invoicekit](https://kontenlaris-studio.github.io/invoicekit/)
 - **SkillAudit** — AI skill security audit service: [kontenlaris-studio.github.io/skill-audit](https://kontenlaris-studio.github.io/skill-audit/)
+- **n8n UMKM Pack** — 4 toko-online automation workflows (orders, reminders, recap, leads): [kontenlaris-studio.github.io/n8n-umkm-pack](https://kontenlaris-studio.github.io/n8n-umkm-pack/)
 - **PromptVault** — Chrome extension for saving prompts & snippets: [github.com/kontenlaris-studio/promptkeep](https://github.com/kontenlaris-studio/promptkeep)
 
 ---
