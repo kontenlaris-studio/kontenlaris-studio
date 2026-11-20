@@ -61,6 +61,22 @@
 
 ---
 
+## 🤖 Try My AI Apps — Live on SkillSafe
+
+Five of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
+
+| App | What it does |
+|---|---|
+| [BTC Race Strategy Advisor](https://btc-race-strategy-advisor.skillsafe.ai) | The exact dip-buying decision for your cbBTC/USDC market snapshot |
+| [Tiny Chess Analyst](https://tiny-chess-analyst.skillsafe.ai) | Engine move, tactics and honest evaluation for any FEN position |
+| [Git Forge Guide](https://git-forge-guide.skillsafe.ai) | How to build git smart HTTP, REST, GraphQL and MCP forge surfaces |
+| [Launch Viewership Forecaster](https://launch-viewership-forecaster.skillsafe.ai) | Quantile forecasts for launch-day Twitch viewership, hours 2–24 |
+| [Pre-Token Screener](https://pre-token-screener.skillsafe.ai) | Score a pre-token DeFi protocol: TVL × category multiple, momentum & age |
+
+Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_ovqmm0c2f7ql) · [git-forge](https://skillsafe.ai/share/shr_pa5dn4m2eh65) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_zg9x1zp6skc9) · [token-radar](https://skillsafe.ai/share/shr_bgqmtsl7wn2r)
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
