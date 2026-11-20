@@ -13,6 +13,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kontenlaris-studio&label=PROFILE%20VIEWS&color=FF7A00&style=for-the-badge)
 [![Work With Me](https://img.shields.io/badge/WORK_WITH_ME-Open_for_Premium_Projects-FF7A00?style=for-the-badge&labelColor=0A1931)](mailto:kontenlaris.studio@gmail.com)
 [![X](https://img.shields.io/badge/X-@Kontenlarisstd-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kontenlarisstd)
+[![YouTube](https://img.shields.io/badge/YouTube-@KontenLarisStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KontenLarisStudio)
 
 </div>
 
