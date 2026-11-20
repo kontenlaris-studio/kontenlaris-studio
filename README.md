@@ -61,6 +61,15 @@
 
 ---
 
+## 🚀 Live Products
+
+- **RingkasBot** — Telegram summarizer bot, pay-per-use with Stars: [t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)
+- **InvoiceKit** — free in-browser invoice generator: [kontenlaris-studio.github.io/invoicekit](https://kontenlaris-studio.github.io/invoicekit/)
+- **SkillAudit** — AI skill security audit service: [kontenlaris-studio.github.io/skill-audit](https://kontenlaris-studio.github.io/skill-audit/)
+- **PromptVault** — Chrome extension for saving prompts & snippets: [github.com/kontenlaris-studio/promptkeep](https://github.com/kontenlaris-studio/promptkeep)
+
+---
+
 ## 🤖 Try My AI Apps — Live on SkillSafe
 
 Five of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
