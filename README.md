@@ -67,6 +67,7 @@
 - **RingkasBot** — Telegram summarizer bot, pay-per-use with Stars: [t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)
 - **InvoiceKit** — free in-browser invoice generator: [kontenlaris-studio.github.io/invoicekit](https://kontenlaris-studio.github.io/invoicekit/)
 - **SkillAudit** — AI skill security audit service: [kontenlaris-studio.github.io/skill-audit](https://kontenlaris-studio.github.io/skill-audit/)
+- **Agent Skill Security Bundle** — 5-skill security system for AI agents: [kontenlaris-studio.github.io/agent-skill-security-bundle](https://kontenlaris-studio.github.io/agent-skill-security-bundle/)
 - **n8n UMKM Pack** — 4 toko-online automation workflows (orders, reminders, recap, leads): [kontenlaris-studio.github.io/n8n-umkm-pack](https://kontenlaris-studio.github.io/n8n-umkm-pack/)
 - **PromptVault** — Chrome extension for saving prompts & snippets: [github.com/kontenlaris-studio/promptkeep](https://github.com/kontenlaris-studio/promptkeep)
 
@@ -87,7 +88,7 @@ Eight of my projects are published as security-scanned skills with hosted apps o
 | [Telegram Bot Monetization Planner](https://telegram-bot-monetization-planner.skillsafe.ai) | Turn a bot idea into a Telegram Stars credit business plan |
 | [Skill Auditor](https://skill-auditor.skillsafe.ai) | A graded A–F security verdict for any AI skill, with evidence |
 
-Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_b4ya70n5chxg)
+Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_uln9q677gs45)
 
 ---
 
