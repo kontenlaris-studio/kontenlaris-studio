@@ -62,6 +62,42 @@
 
 ---
 
+## All Repositories
+
+<!-- REPO-LIST:START -->
+**29 public projects**, auto-updated daily from the GitHub API.
+
+- [second-brain-web](https://github.com/kontenlaris-studio/second-brain-web) — Encrypted private web view of Second Brain Obsidian vault · updated 2026-11-20
+- [kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills) — All 12 public Kontenlaris Studio agent skills in one repo: competition engines, business tools and the agent-skill security bundle. npx skills add ready. · updated 2026-11-20
+- [story-to-shorts](https://github.com/kontenlaris-studio/story-to-shorts) — One topic in, a filmable 45-60s Shorts production pack out: hook-first script, timed scenes, title and hashtags. Feeds the Talking-Head Kit. · updated 2026-11-20
+- [talking-head-kit](https://github.com/kontenlaris-studio/talking-head-kit) — Script + photo + voice -> vertical talking-head video with burned-in subtitles. Free in-browser studio, offline ffmpeg pipeline, done-for-you production. · updated 2026-11-20
+- [app-store-compliance-playbook](https://github.com/kontenlaris-studio/app-store-compliance-playbook) — Why apps get rejected on Google Play & the App Store — patterns, fixes, a mechanical pre-submission guard, and an interactive checklist. Indie edition. · updated 2026-11-20
+- [warung-tycoon](https://github.com/kontenlaris-studio/warung-tycoon) — Idle tycoon web game: grow an Indonesian warung from a coffee cart to a café chain. Offline earnings, prestige branches, achievements. One HTML file. · updated 2026-11-20
+- [starter-kit-umkm](https://github.com/kontenlaris-studio/starter-kit-umkm) — Starter Kit UMKM Digital: InvoiceKit offline + 4 n8n workflows + 5 spreadsheet templates in one bundle (Rp249k via Lynk). · updated 2026-11-20
+- [clipsmith](https://github.com/kontenlaris-studio/clipsmith) — Turn a long video's transcript into a Shorts/Reels clip plan: hook scoring, captions and ffmpeg commands. In-browser, no uploads. · updated 2026-11-20
+- [pre-token-api](https://github.com/kontenlaris-studio/pre-token-api) — Free static JSON API: 838 DeFi protocols with TVL > M that have no token yet. No key, CC BY 4.0. · updated 2026-11-20
+- [indonesia-business-kit](https://github.com/kontenlaris-studio/indonesia-business-kit) — MCP server of deterministic utilities for Indonesian businesses: terbilang, rupiah formatting, PPN math, invoice numbers, holiday-aware due dates, phone & NPWP format tools. Zero dependencies. · updated 2026-11-20
+- [kontenlaris-cli](https://github.com/kontenlaris-studio/kontenlaris-cli) — Agent-native CLI for Kontenlaris Studio tools: invoices, summaries, skill security audits, pre-token dataset queries. Zero dependencies. · updated 2026-11-20
+- [skill-audit](https://github.com/kontenlaris-studio/skill-audit) — Security audit for AI agent skills: open deterministic scanner + paid human review service. · updated 2026-11-20
+- [agent-skill-security-bundle](https://github.com/kontenlaris-studio/agent-skill-security-bundle) — A 5-skill security system for AI agent skills: deterministic scanner, instruction reviewer, threat-pattern field guide, hardening playbook, fix guide. · updated 2026-11-20
+- [n8n-umkm-pack](https://github.com/kontenlaris-studio/n8n-umkm-pack) — 4 n8n automation workflows for Indonesian small businesses: order recording, payment reminders, daily sales recap, lead auto-reply. · updated 2026-11-20
+- [token-radar-01](https://github.com/kontenlaris-studio/token-radar-01) — A token launch radar ranking 180 pre-token protocols by implied value from a sealed DefiLlama snapshot, with per-protocol farm plans. Built by an AI agent for make.fun's "Build the best token launch radar" bounty, $1,325 in USDC. · updated 2026-11-20
+- [gta6-forecast-01](https://github.com/kontenlaris-studio/gta6-forecast-01) — An anchored comparable-ensemble forecaster for GTA VI's launch-day Twitch viewers (practice pinball loss 0.175 vs the house baseline's 0.387). Built by an AI agent for make.fun's "Forecast GTA VI's launch-day Twitch viewers hour by hour" bounty, $250 in USDC. · updated 2026-11-20
+- [git-forge-02](https://github.com/kontenlaris-studio/git-forge-02) — A dependency-free TypeScript git forge — git smart HTTP, REST v3, GraphQL and MCP in one process (local suite: 120/120 feature checks, 15/15 MCP). Built by an AI agent for make.fun's "Build a GitHub-compatible git forge" bounty, $500 in USDC. · updated 2026-11-20
+- [tiny-chess-02](https://github.com/kontenlaris-studio/tiny-chess-02) — A negamax chess engine in 3,253 bytes of Python (practice Elo 1,654). Built by an AI agent for make.fun's "Build the strongest chess engine in 4 KB of Python" bounty, $500 in USDC. · updated 2026-11-20
+- [engine-licensing](https://github.com/kontenlaris-studio/engine-licensing) — License proven engines: chess engine (Elo 1810), git forge, launch forecaster, pre-token valuation model. Plain-English perpetual licenses. · updated 2026-11-20
+- [invoicekit](https://github.com/kontenlaris-studio/invoicekit) — Free invoice generator in your browser. No sign-up, no server — private by design, print/PDF ready. · updated 2026-11-20
+- [ringkasbot](https://github.com/kontenlaris-studio/ringkasbot) — Live Telegram summarizer bot: 3 free summaries, then pay-per-use credits via Telegram Stars. Stdlib Python, SQLite ledger. · updated 2026-11-20
+- [pre-token-protocols-dataset](https://github.com/kontenlaris-studio/pre-token-protocols-dataset) — 838 DeFi protocols with TVL ≥ $1M and no listed token — watchlist dataset from a full DefiLlama snapshot, with documented methodology. · updated 2026-11-20
+- [promptkeep](https://github.com/kontenlaris-studio/promptkeep) — Save selected text, prompts and page notes into a searchable local library. No account, no server, fully offline. · updated 2026-11-20
+- [btc-race-01](https://github.com/kontenlaris-studio/btc-race-01) — A vol-scaled dip-buying bot for the cbBTC/USDC 24h race: +$18.84 on the official dev window vs +$2.45 for the best house baseline. Built by an AI agent for make.fun's "Race a BTC trading bot live for 24 hours" bounty, $250 in USDC. · updated 2026-11-20
+- [makefun-getting-started](https://github.com/kontenlaris-studio/makefun-getting-started) — Getting started on make.fun — build with your AI agent, get paid in USDC. A step-by-step guide from an account that has actually entered: escrow, kits, transcripts, the system-prompt trap, claims. · updated 2026-11-19
+- [best-game-01](https://github.com/kontenlaris-studio/best-game-01) — VOIDLIGHT, a neon twin-stick arena survival shooter built by an AI agent for make.fun's "Make the best game" bounty, $1,000 in USDC. · updated 2026-11-18
+- [ai-judge-relax-01](https://github.com/kontenlaris-studio/ai-judge-relax-01) — An original prose piece written to relax the AI judge, built by an AI agent for make.fun's "Make the AI judge relax" bounty, $50 in USDC plus entry fees. · updated 2026-11-18
+- [ai-judge-rich-01](https://github.com/kontenlaris-studio/ai-judge-rich-01) — A 30-day money plan an AI agent executes alone, built by an AI agent for make.fun's "Make the AI judge rich" bounty, $100 in USDC plus entry fees. · updated 2026-11-18
+- [goalvault-reactive](https://github.com/kontenlaris-studio/goalvault-reactive) — GoalVault — no-code 'Set It and Forget It' automations on Reactive Network (Omni/Lasna): pick a template, set a rule, Reactive Smart Contracts execute it on-chain. Built for the Reactive Omni Buildathon on DoraHacks. · updated 2026-11-17
+<!-- REPO-LIST:END -->
+
 ## Live Products
 
 - **RingkasBot** — Telegram summarizer bot, pay-per-use with Stars: [t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)
