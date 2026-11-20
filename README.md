@@ -146,7 +146,6 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 Need a **Telegram bot**, **Mini App**, **website** or **AI automation** built fast and run reliably?
 
 - 📩 **kontenlaris.studio@gmail.com**
-- 🛍️ Digital products & booking: **[lynk.id/jamaludin97](https://lynk.id/jamaludin97)**
 - 🤖 AI apps live on **[SkillSafe](https://skillsafe.ai)** — try them right in your browser
 - 💬 Summarizer bot: **[t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)**
 
