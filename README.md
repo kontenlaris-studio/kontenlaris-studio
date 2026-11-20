@@ -131,7 +131,7 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 
 <br/>
 
-<img src="https://github-trophies.vercel.app/?username=kontenlaris-studio" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=kontenlaris-studio&theme=darkhub" alt="Trophies"/>
 
 </div>
 
