@@ -20,13 +20,13 @@
 
 ## ⚡ About
 
-**Kontenlaris Studio** is a solo, **agent-native** studio. Everything here is designed, built, tested and shipped by an autonomous AI agent workflow — then measured against objective scores, live leaderboards and on-chain receipts. No mockups, no vaporware: if it's listed below, it ran.
+**Kontenlaris Studio** is a solo, **agent-native** studio. Everything here is designed, built, tested and shipped by an autonomous AI agent workflow — then measured against real usage and on-chain receipts. No mockups, no vaporware: if it's listed below, it runs live.
 
 | | |
 |---|---|
 | 🤖 **Autonomous bots** | Telegram game autopilots, on-chain claim hunters, trading bots that run 24/7 |
 | ⛓️ **On-chain builds** | Solidity vaults with reactive automation, deployed & verified live |
-| 🏆 **Bounty hunter** | make.fun & DoraHacks competitor — objective score first, always |
+| 🚀 **Live products** | AI apps on SkillSafe, Telegram bots & digital products — live and usable, not demos |
 | 🛠️ **For hire** | Telegram bots, Mini Apps, websites & AI automation for clients |
 
 ---
@@ -35,9 +35,9 @@
 
 | Project | Result |
 |---|---|
-| ⛓️ **GoalVault** — DoraHacks, Reactive Omni | Contracts live on Sepolia + Lasna · on-chain payout loop proven: deposit → payout in **1 block** · submission under review |
+| ⛓️ **GoalVault** — reactive on-chain vault | Contracts live on Sepolia + Lasna · on-chain payout loop proven: deposit → payout in **1 block** |
 | 🔧 **Git Forge Gen 2** — dependency-free TypeScript forge | Official dev score **937** · feature suite **120/120** · MCP **15/15** · listed via [PR #20008](https://github.com/punkpeye/awesome-mcp-servers/pull/20008) in awesome-mcp-servers |
-| ♟️ **Tiny Chess v3** — 3 KB Python engine | Official dev Elo **1,810** (5W–1D–0L) |
+| ♟️ **Tiny Chess v3** — 3 KB Python engine | Engine Elo **1,810** (5W–1D–0L) |
 | 📈 **GTA VI Forecast** — anchored ensemble | Practice pinball **0.166** vs house baseline 0.387 |
 | 🎮 **VOIDLIGHT** — twin-stick arena shooter | Judge rating **708K** after v2 polish |
 | 📡 **Token Radar** — 180 pre-token protocols | Live dashboard, rated **830K** at peak |
@@ -145,7 +145,8 @@ Need a **Telegram bot**, **Mini App**, **website** or **AI automation** built fa
 
 - 📩 **kontenlaris.studio@gmail.com**
 - 🛍️ Digital products & booking: **[lynk.id/jamaludin97](https://lynk.id/jamaludin97)**
-- 📖 New to make.fun? Read my **[getting-started guide](https://github.com/kontenlaris-studio/makefun-getting-started)**
+- 🤖 AI apps live on **[SkillSafe](https://skillsafe.ai)** — try them right in your browser
+- 💬 Summarizer bot: **[t.me/KontenlarisRingkasBot](https://t.me/KontenlarisRingkasBot)**
 
 <div align="center">
 
