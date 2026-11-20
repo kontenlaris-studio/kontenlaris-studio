@@ -70,6 +70,7 @@
 - **kontenlaris CLI** — agent-native command line for all my tools (invoice · ringkas · audit · tokens): [github.com/kontenlaris-studio/kontenlaris-cli](https://github.com/kontenlaris-studio/kontenlaris-cli)
 - **Indonesia Business Kit (MCP)** — terbilang, PPN, holiday-aware due dates & more for AI agents: [github.com/kontenlaris-studio/indonesia-business-kit](https://github.com/kontenlaris-studio/indonesia-business-kit)
 - **Kontenlaris Skills Pack** — all 12 public skills in one repo: [github.com/kontenlaris-studio/kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills)
+- **Pre-Token API** — free JSON API of 838 pre-token protocols: [kontenlaris-studio.github.io/pre-token-api](https://kontenlaris-studio.github.io/pre-token-api/)
 - **App Store Compliance Playbook** — pass Play/App Store review the first time: [kontenlaris-studio.github.io/app-store-compliance-playbook](https://kontenlaris-studio.github.io/app-store-compliance-playbook/)
 - **Agent Skill Security Bundle** — 5-skill security system for AI agents: [kontenlaris-studio.github.io/agent-skill-security-bundle](https://kontenlaris-studio.github.io/agent-skill-security-bundle/)
 - **n8n UMKM Pack** — 4 toko-online automation workflows (orders, reminders, recap, leads): [kontenlaris-studio.github.io/n8n-umkm-pack](https://kontenlaris-studio.github.io/n8n-umkm-pack/)
