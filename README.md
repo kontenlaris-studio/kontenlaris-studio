@@ -106,6 +106,7 @@
 - **kontenlaris CLI** — agent-native command line for all my tools (invoice · ringkas · audit · tokens): [github.com/kontenlaris-studio/kontenlaris-cli](https://github.com/kontenlaris-studio/kontenlaris-cli)
 - **Indonesia Business Kit (MCP)** — terbilang, PPN, holiday-aware due dates & more for AI agents: [github.com/kontenlaris-studio/indonesia-business-kit](https://github.com/kontenlaris-studio/indonesia-business-kit)
 - **Kontenlaris Skills Pack** — all 12 public skills in one repo: [github.com/kontenlaris-studio/kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills)
+- **Launch Autopilot Kit** — one product → a full launch pack: [kontenlaris-studio.github.io/launch-autopilot-kit](https://kontenlaris-studio.github.io/launch-autopilot-kit/)
 - **Talking-Head Video Kit** — script + photo + voice → vertical talking videos: [kontenlaris-studio.github.io/talking-head-kit](https://kontenlaris-studio.github.io/talking-head-kit/)
 - **Warung Tycoon** — free idle game: [kontenlaris-studio.github.io/warung-tycoon](https://kontenlaris-studio.github.io/warung-tycoon/)
 - **ClipSmith** — transcript → Shorts/Reels clip plans: [kontenlaris-studio.github.io/clipsmith](https://kontenlaris-studio.github.io/clipsmith/)
@@ -121,7 +122,7 @@
 
 ## Try My AI Apps — Live on SkillSafe
 
-Thirteen of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
+Fourteen of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
 
 | App | What it does |
 |---|---|
@@ -138,8 +139,9 @@ Thirteen of my projects are published as security-scanned skills with hosted app
 | [Buyer Panel](https://buyer-panel.skillsafe.ai) | Five simulated buyers score your product page and quote the line that lost them |
 | [Story-to-Shorts Studio](https://story-to-shorts-studio.skillsafe.ai) | One topic → a hook-first 45–60s script pack with timed scenes |
 | [AI Council](https://ai-council.skillsafe.ai) | Five opposed advisors argue your decision and vote — conditions attached |
+| [Launch Autopilot](https://launch-autopilot.skillsafe.ai) | One product → a complete launch pack: PH, DevHunt, Show HN, schedule |
 
-Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_uln9q677gs45) · [trend-scout](https://skillsafe.ai/share/shr_c4tajc04d7qn) · [talking-head-kit](https://skillsafe.ai/share/shr_1f3fn1v0siv1) · [buyer-panel](https://skillsafe.ai/share/shr_515tloxmrn4b) · [story-to-shorts](https://skillsafe.ai/share/shr_ejswi4k9ha7p) · [ai-council](https://skillsafe.ai/share/shr_y3y3etqwbkqy)
+Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_uln9q677gs45) · [trend-scout](https://skillsafe.ai/share/shr_c4tajc04d7qn) · [talking-head-kit](https://skillsafe.ai/share/shr_1f3fn1v0siv1) · [buyer-panel](https://skillsafe.ai/share/shr_515tloxmrn4b) · [story-to-shorts](https://skillsafe.ai/share/shr_ejswi4k9ha7p) · [ai-council](https://skillsafe.ai/share/shr_y3y3etqwbkqy) · [launch-autopilot](https://skillsafe.ai/share/shr_nnjh6iwgd7i3)
 
 ---
 
