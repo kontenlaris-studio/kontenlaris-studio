@@ -107,10 +107,11 @@
 - **SkillAudit** — AI skill security audit service: [kontenlaris-studio.github.io/skill-audit](https://kontenlaris-studio.github.io/skill-audit/)
 - **kontenlaris CLI** — agent-native command line for all my tools (invoice · ringkas · audit · tokens): [github.com/kontenlaris-studio/kontenlaris-cli](https://github.com/kontenlaris-studio/kontenlaris-cli)
 - **Indonesia Business Kit (MCP)** — terbilang, PPN, holiday-aware due dates & more for AI agents: [github.com/kontenlaris-studio/indonesia-business-kit](https://github.com/kontenlaris-studio/indonesia-business-kit)
-- **Kontenlaris Skills Pack** — all 20 public skills in one repo: [github.com/kontenlaris-studio/kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills)
+- **Kontenlaris Skills Pack** — all 21 public skills in one repo: [github.com/kontenlaris-studio/kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills)
 - **Launch Autopilot Kit** — one product → a full launch pack: [kontenlaris-studio.github.io/launch-autopilot-kit](https://kontenlaris-studio.github.io/launch-autopilot-kit/)
 - **Faceless Channel Pack** — one niche → a 30-day faceless channel pack: [kontenlaris-studio.github.io/faceless-channel-pack](https://kontenlaris-studio.github.io/faceless-channel-pack/)
 - **AI UGC Ad Generator** — one product → 10 guarded UGC ad variants: [kontenlaris-studio.github.io/ugc-ad-generator](https://kontenlaris-studio.github.io/ugc-ad-generator/)
+- **AI Receptionist Kit** — a front desk that answers, books and escalates from your own business data: [kontenlaris-studio.github.io/ai-receptionist-kit](https://kontenlaris-studio.github.io/ai-receptionist-kit/)
 - **Talking-Head Video Kit** — script + photo + voice → vertical talking videos: [kontenlaris-studio.github.io/talking-head-kit](https://kontenlaris-studio.github.io/talking-head-kit/)
 - **Warung Tycoon** — free idle game: [kontenlaris-studio.github.io/warung-tycoon](https://kontenlaris-studio.github.io/warung-tycoon/)
 - **ClipSmith** — transcript → Shorts/Reels clip plans: [kontenlaris-studio.github.io/clipsmith](https://kontenlaris-studio.github.io/clipsmith/)
@@ -126,7 +127,7 @@
 
 ## Try My AI Apps — Live on SkillSafe
 
-Sixteen of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
+Seventeen of my projects are published as security-scanned skills with hosted apps on [SkillSafe](https://skillsafe.ai) — open any app and use it right in your browser:
 
 | App | What it does |
 |---|---|
@@ -146,8 +147,9 @@ Sixteen of my projects are published as security-scanned skills with hosted apps
 | [Launch Autopilot](https://launch-autopilot.skillsafe.ai) | One product → a complete launch pack: PH, DevHunt, Show HN, schedule |
 | [Faceless Channel Studio](https://faceless-channel-studio.skillsafe.ai) | One niche → a 30-day faceless channel plan: calendar, hooks, setup checklist |
 | [UGC Ad Studio](https://ugc-ad-studio.skillsafe.ai) | One product → 10 guarded UGC ad variants: hooks, scripts, shot list, compliance check |
+| [Receptionist Planner](https://receptionist-planner.skillsafe.ai) | Your business → a receptionist blueprint: starter FAQs, booking rules, escalation rules, sample dialogues |
 
-Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_uln9q677gs45) · [trend-scout](https://skillsafe.ai/share/shr_c4tajc04d7qn) · [talking-head-kit](https://skillsafe.ai/share/shr_1f3fn1v0siv1) · [buyer-panel](https://skillsafe.ai/share/shr_515tloxmrn4b) · [story-to-shorts](https://skillsafe.ai/share/shr_ejswi4k9ha7p) · [ai-council](https://skillsafe.ai/share/shr_y3y3etqwbkqy) · [launch-autopilot](https://skillsafe.ai/share/shr_nnjh6iwgd7i3) · [faceless-channel](https://skillsafe.ai/share/shr_dite3wp6wu4d) · [ugc-ad-generator](https://skillsafe.ai/share/shr_wz1y8yek1bp1)
+Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](https://skillsafe.ai/share/shr_pm3czpuh2gr8) · [tiny-chess-engine](https://skillsafe.ai/share/shr_o2rvtn5rnm7t) · [git-forge](https://skillsafe.ai/share/shr_dyohjr09efls) · [gta6-twitch-forecast](https://skillsafe.ai/share/shr_efm51tgjni0y) · [token-radar](https://skillsafe.ai/share/shr_8qwjpv5flz94) · [invoice-generator](https://skillsafe.ai/share/shr_swy46soxhxui) · [telegram-summarizer-bot](https://skillsafe.ai/share/shr_9y6q35a48qet) · [skill-audit](https://skillsafe.ai/share/shr_uln9q677gs45) · [trend-scout](https://skillsafe.ai/share/shr_c4tajc04d7qn) · [talking-head-kit](https://skillsafe.ai/share/shr_1f3fn1v0siv1) · [buyer-panel](https://skillsafe.ai/share/shr_515tloxmrn4b) · [story-to-shorts](https://skillsafe.ai/share/shr_ejswi4k9ha7p) · [ai-council](https://skillsafe.ai/share/shr_y3y3etqwbkqy) · [launch-autopilot](https://skillsafe.ai/share/shr_nnjh6iwgd7i3) · [faceless-channel](https://skillsafe.ai/share/shr_dite3wp6wu4d) · [ugc-ad-generator](https://skillsafe.ai/share/shr_wz1y8yek1bp1) · [ai-receptionist](https://skillsafe.ai/share/shr_d9djqnlw05mh)
 
 ---
 
