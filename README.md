@@ -65,10 +65,12 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**29 public projects**, auto-updated daily from the GitHub API.
+**31 public projects**, auto-updated daily from the GitHub API.
 
-- [second-brain-web](https://github.com/kontenlaris-studio/second-brain-web) — Encrypted private web · updated 2026-11-20
 - [kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills) — All 12 public Kontenlaris Studio agent skills in one repo: competition engines, business tools and the agent-skill security bundle. npx skills add ready. · updated 2026-11-20
+- [faceless-channel-pack](https://github.com/kontenlaris-studio/faceless-channel-pack) — One niche in, a complete 30-day faceless channel pack out: calendar, filmable scripts, posting schedule, checklists, setup templates for 5 niches. · updated 2026-11-20
+- [second-brain-web](https://github.com/kontenlaris-studio/second-brain-web) — Encrypted private web · updated 2026-11-20
+- [launch-autopilot-kit](https://github.com/kontenlaris-studio/launch-autopilot-kit) — One product in, a complete launch pack out: Product Hunt, DevHunt, Show HN, social, checklist and launch-day schedule. · updated 2026-11-20
 - [story-to-shorts](https://github.com/kontenlaris-studio/story-to-shorts) — One topic in, a filmable 45-60s Shorts production pack out: hook-first script, timed scenes, title and hashtags. Feeds the Talking-Head Kit. · updated 2026-11-20
 - [talking-head-kit](https://github.com/kontenlaris-studio/talking-head-kit) — Script + photo + voice -> vertical talking-head video with burned-in subtitles. Free in-browser studio, offline ffmpeg pipeline, done-for-you production. · updated 2026-11-20
 - [app-store-compliance-playbook](https://github.com/kontenlaris-studio/app-store-compliance-playbook) — Why apps get rejected on Google Play & the App Store — patterns, fixes, a mechanical pre-submission guard, and an interactive checklist. Indie edition. · updated 2026-11-20
