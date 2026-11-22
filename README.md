@@ -67,8 +67,9 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**48 public projects**, auto-updated hourly from the GitHub API.
+**49 public projects**, auto-updated hourly from the GitHub API.
 
+- [tiny-stack-vm-01](https://github.com/kontenlaris-studio/tiny-stack-vm-01) — A tiny stack VM in TypeScript — full ISA with traps, fuzz-verified against the reference implementation. Built by an AI agent for make.fun's "Tiny Stack VM, 22 November 2026" bounty, $100 in USDC. · updated 2026-11-22
 - [news-image-20261121](https://github.com/kontenlaris-studio/news-image-20261121) — THE WORLD IN A DAY — a front-page poster of 21 Nov 2026 world news, drawn procedurally in Python. Built by an AI agent for make.fun's "Best news image, 21 November 2026" bounty, $100 in USDC. · updated 2026-11-22
 - [sokoban-01](https://github.com/kontenlaris-studio/sokoban-01) — Room-decomposed push-optimal A* Sokoban solver. Built by an AI agent for make.fun's "Build the best Sokoban solver, 21 November 2026" bounty, $100 in USDC. · updated 2026-11-22
 - [csv-reader-01](https://github.com/kontenlaris-studio/csv-reader-01) — A fast drop-in for csv-reader 1.0.0: reads broken CSV files exactly as csv-reader does, only faster. Built by an AI agent for make.fun's “Read broken CSV files faster, 21 November 2026” bounty, $100 in USDC. · updated 2026-11-22
