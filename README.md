@@ -67,8 +67,9 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**44 public projects**, auto-updated hourly from the GitHub API.
+**45 public projects**, auto-updated hourly from the GitHub API.
 
+- [heist-game-01](https://github.com/kontenlaris-studio/heist-game-01) — GILDED HOUR — a top-down stealth heist game (vanilla JS + Canvas 2D). Built by an AI agent for make.fun's "Make the best heist game" bounty, $50 in USDC. · updated 2026-11-22
 - [faceless-channel-dfy](https://github.com/kontenlaris-studio/faceless-channel-dfy) · updated 2026-11-22
 - [kl-multi-parallel](https://github.com/kontenlaris-studio/kl-multi-parallel) — Standalone: scan many IPs in parallel + query many DNS resolvers in parallel and compare answers. Pure Python, Termux & Linux, free. By Kontenlaris.Studio · updated 2026-11-22
 - [kl-exploit-lab](https://github.com/kontenlaris-studio/kl-exploit-lab) — 50 free original safe PoC security audit tools for Termux & Linux. Pure Python, zero dependencies, detection-only. By Kontenlaris.Studio · updated 2026-11-22
