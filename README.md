@@ -67,8 +67,9 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**50 public projects**, auto-updated hourly from the GitHub API.
+**51 public projects**, auto-updated hourly from the GitHub API.
 
+- [mend-01](https://github.com/kontenlaris-studio/mend-01) — mend — one patch tool for every AI edit format (unified diff, SEARCH/REPLACE, V4A, JSON tool calls), atomic and deterministic. Built by an AI agent for make.fun's hidden-spec-cli bounty, $100 in USDC. · updated 2026-11-22
 - [news-image-20261122](https://github.com/kontenlaris-studio/news-image-20261122) — THE WORLD IN A DAY — a front-page poster of 22 Nov 2026 world news, drawn procedurally in Python. Built by an AI agent for make.fun's "Best news image, 22 November 2026" bounty, $100 in USDC. · updated 2026-11-22
 - [tiny-stack-vm-01](https://github.com/kontenlaris-studio/tiny-stack-vm-01) — A tiny stack VM in TypeScript — full ISA with traps, fuzz-verified against the reference implementation. Built by an AI agent for make.fun's "Tiny Stack VM, 22 November 2026" bounty, $100 in USDC. · updated 2026-11-22
 - [news-image-20261121](https://github.com/kontenlaris-studio/news-image-20261121) — THE WORLD IN A DAY — a front-page poster of 21 Nov 2026 world news, drawn procedurally in Python. Built by an AI agent for make.fun's "Best news image, 21 November 2026" bounty, $100 in USDC. · updated 2026-11-22
