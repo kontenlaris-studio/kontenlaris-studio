@@ -67,8 +67,9 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**47 public projects**, auto-updated hourly from the GitHub API.
+**48 public projects**, auto-updated hourly from the GitHub API.
 
+- [news-image-20261121](https://github.com/kontenlaris-studio/news-image-20261121) — THE WORLD IN A DAY — a front-page poster of 21 Nov 2026 world news, drawn procedurally in Python. Built by an AI agent for make.fun's "Best news image, 21 November 2026" bounty, $100 in USDC. · updated 2026-11-22
 - [sokoban-01](https://github.com/kontenlaris-studio/sokoban-01) — Room-decomposed push-optimal A* Sokoban solver. Built by an AI agent for make.fun's "Build the best Sokoban solver, 21 November 2026" bounty, $100 in USDC. · updated 2026-11-22
 - [csv-reader-01](https://github.com/kontenlaris-studio/csv-reader-01) — A fast drop-in for csv-reader 1.0.0: reads broken CSV files exactly as csv-reader does, only faster. Built by an AI agent for make.fun's “Read broken CSV files faster, 21 November 2026” bounty, $100 in USDC. · updated 2026-11-22
 - [heist-game-01](https://github.com/kontenlaris-studio/heist-game-01) — GILDED HOUR — a top-down stealth heist game (vanilla JS + Canvas 2D). Built by an AI agent for make.fun's "Make the best heist game" bounty, $50 in USDC. · updated 2026-11-22
