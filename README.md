@@ -67,8 +67,9 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**43 public projects**, auto-updated hourly from the GitHub API.
+**44 public projects**, auto-updated hourly from the GitHub API.
 
+- [faceless-channel-dfy](https://github.com/kontenlaris-studio/faceless-channel-dfy) · updated 2026-11-22
 - [kl-multi-parallel](https://github.com/kontenlaris-studio/kl-multi-parallel) — Standalone: scan many IPs in parallel + query many DNS resolvers in parallel and compare answers. Pure Python, Termux & Linux, free. By Kontenlaris.Studio · updated 2026-11-22
 - [kl-exploit-lab](https://github.com/kontenlaris-studio/kl-exploit-lab) — 50 free original safe PoC security audit tools for Termux & Linux. Pure Python, zero dependencies, detection-only. By Kontenlaris.Studio · updated 2026-11-22
 - [second-brain-web](https://github.com/kontenlaris-studio/second-brain-web) — Encrypted private web · updated 2026-11-22
