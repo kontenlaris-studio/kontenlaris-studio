@@ -29,7 +29,7 @@ def fetch_repos():
 def main():
     repos = [x for x in fetch_repos()
              if not x["fork"] and x["name"] != OWNER and not x["private"]]
-    lines = [f"**{len(repos)} public projects**, auto-updated daily from the GitHub API.", ""]
+    lines = [f"**{len(repos)} public projects**, auto-updated hourly from the GitHub API.", ""]
     for x in repos:
         desc = (x.get("description") or "").strip()
         date = (x.get("pushed_at") or "")[:10]
