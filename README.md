@@ -15,7 +15,7 @@
 [![X](https://img.shields.io/badge/X-@Kontenlarisstd-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kontenlarisstd)
 [![YouTube](https://img.shields.io/badge/YouTube-@KontenLarisStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KontenLarisStudio)
 [![Instagram](https://img.shields.io/badge/Instagram-@kontenlaris.studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kontenlaris.studio)
-[![Facebook](https://img.shields.io/badge/Facebook-Mahfud_Jalil-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596369277496)
+[![Facebook](https://img.shields.io/badge/Facebook-Konten_Laris-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596802831195)
 
 </div>
 
