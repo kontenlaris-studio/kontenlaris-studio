@@ -220,9 +220,11 @@ Skills (installable, scan-verified): [@kontenlaris-studio/btc-race-strategy](htt
 
 </div>
 
-<!-- 🐍 Contribution Snake — activates automatically once GitHub Actions is enabled on this repo (workflow: .github/workflows/snake.yml)
-<img src="https://raw.githubusercontent.com/kontenlaris-studio/kontenlaris-studio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kontenlaris-studio/kontenlaris-studio/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kontenlaris-studio/kontenlaris-studio/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/kontenlaris-studio/kontenlaris-studio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</picture>
 
 ---
 
