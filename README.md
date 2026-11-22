@@ -67,11 +67,21 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**31 public projects**, auto-updated daily from the GitHub API.
+**41 public projects**, auto-updated daily from the GitHub API.
 
-- [kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills) — All 12 public Kontenlaris Studio agent skills in one repo: competition engines, business tools and the agent-skill security bundle. npx skills add ready. · updated 2026-11-20
+- [second-brain-web](https://github.com/kontenlaris-studio/second-brain-web) — Encrypted private web · updated 2026-11-22
+- [skill-starter-bundle](https://github.com/kontenlaris-studio/skill-starter-bundle) · updated 2026-11-21
+- [qnx-host-kit](https://github.com/kontenlaris-studio/qnx-host-kit) — Host tool for QNX 8.0 development: scaffold QNX C projects, analyze slog2 logs, readiness-check submissions. QNX Global Hackathon 2026. · updated 2026-11-21
+- [launch-autopilot-service](https://github.com/kontenlaris-studio/launch-autopilot-service) — Done-for-you Product Hunt launch preparation service — launch pack $49, with launch-day support $99 · updated 2026-11-21
+- [meeting-to-tasks](https://github.com/kontenlaris-studio/meeting-to-tasks) — Forge app that turns Confluence meeting-notes action items into Jira issue drafts — deterministic parser, no AI guessing. Codegeist 2026 entry. · updated 2026-11-21
+- [kontenlaris-skills](https://github.com/kontenlaris-studio/kontenlaris-skills) — All 12 public Kontenlaris Studio agent skills in one repo: competition engines, business tools and the agent-skill security bundle. npx skills add ready. · updated 2026-11-21
+- [ai-receptionist-kit](https://github.com/kontenlaris-studio/ai-receptionist-kit) · updated 2026-11-21
+- [crewkit](https://github.com/kontenlaris-studio/crewkit) — CrewKit — a lean skeleton-crew automation template (core + 2 apps), built spec-first with Kiro. Kiroween 2026. · updated 2026-11-21
+- [ugc-ad-generator](https://github.com/kontenlaris-studio/ugc-ad-generator) · updated 2026-11-21
+- [release-minion](https://github.com/kontenlaris-studio/release-minion) — Release-readiness agent built on the OpenMinion 0.1 SDK — Cortensor Hackathon #5 · updated 2026-11-21
+- [whytrace](https://github.com/kontenlaris-studio/whytrace) — Show Your Work: every agent decision explained in 1 query - decision traces, root-cause and replay on a shared Meko datapack. ContextCon Theme 07 entry. · updated 2026-11-21
+- [onememory](https://github.com/kontenlaris-studio/onememory) — One Memory, Every Coding Agent — teach the standard once in a shared Meko datapack; every coding agent follows it. ContextCon Theme 01 entry. · updated 2026-11-21
 - [faceless-channel-pack](https://github.com/kontenlaris-studio/faceless-channel-pack) — One niche in, a complete 30-day faceless channel pack out: calendar, filmable scripts, posting schedule, checklists, setup templates for 5 niches. · updated 2026-11-20
-- [second-brain-web](https://github.com/kontenlaris-studio/second-brain-web) — Encrypted private web · updated 2026-11-20
 - [launch-autopilot-kit](https://github.com/kontenlaris-studio/launch-autopilot-kit) — One product in, a complete launch pack out: Product Hunt, DevHunt, Show HN, social, checklist and launch-day schedule. · updated 2026-11-20
 - [story-to-shorts](https://github.com/kontenlaris-studio/story-to-shorts) — One topic in, a filmable 45-60s Shorts production pack out: hook-first script, timed scenes, title and hashtags. Feeds the Talking-Head Kit. · updated 2026-11-20
 - [talking-head-kit](https://github.com/kontenlaris-studio/talking-head-kit) — Script + photo + voice -> vertical talking-head video with burned-in subtitles. Free in-browser studio, offline ffmpeg pipeline, done-for-you production. · updated 2026-11-20
