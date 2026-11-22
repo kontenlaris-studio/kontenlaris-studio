@@ -1,12 +1,15 @@
 name: Update repo list
 
+
 on:
   schedule:
-    - cron: "17 2 * * *" # daily 02:17 UTC (09:17 WIB)
+    - cron: "23 * * * *" # hourly at minute 23 UTC
   workflow_dispatch:
+
 
 permissions:
   contents: write
+
 
 jobs:
   update:
@@ -28,3 +31,4 @@ jobs:
             git commit -m "Auto-update repository list"
             git push
           fi
+
