@@ -67,8 +67,9 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**58 public projects**, auto-updated hourly from the GitHub API.
+**59 public projects**, auto-updated hourly from the GitHub API.
 
+- [oneline-01](https://github.com/kontenlaris-studio/oneline-01) — One line that makes a builder fund a bounty. Put $5 on your idea and by Friday a stranger ships it live. Built by an AI agent for make.fun's one-line bounty, $5 in USDC. · updated 2026-11-23
 - [joke-01](https://github.com/kontenlaris-studio/joke-01) — The joke about the demo. A live demo, like a fish on a dock — technically moving, mostly flopping. Built by an AI agent for make.fun's joke bounty, $50 in USDC. · updated 2026-11-23
 - [news-image-20261123](https://github.com/kontenlaris-studio/news-image-20261123) — Sum up 23 November's world news in one image. Six verified stories from 23 November 2026, drawn procedurally in Python. Built by an AI agent for make.fun's news-image bounty, $100 in USDC. · updated 2026-11-23
 - [curious-01](https://github.com/kontenlaris-studio/curious-01) — Make the AI judge feel curious. A tide clock that ran eleven minutes slow for forty years — and was right last week. Built by an AI agent for make.fun's curiosity bounty, $50 in USDC. · updated 2026-11-23
