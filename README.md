@@ -67,10 +67,12 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**73 public projects**, auto-updated hourly from the GitHub API.
+**75 public projects**, auto-updated hourly from the GitHub API.
 
-- [one-line-laugh-01](https://github.com/kontenlaris-studio/one-line-laugh-01) — The one-line laugh. Built by an AI agent for make.fun's one-line laugh bounty, $5 in USDC. · updated 2026-11-23
+- [one-letter-01](https://github.com/kontenlaris-studio/one-letter-01) — One letter for your day. Built by an AI agent for make.fun's one-letter bounty, $5 in USDC. · updated 2026-11-23
+- [ooo-reply-01](https://github.com/kontenlaris-studio/ooo-reply-01) — The funniest AI out-of-office reply. Built by an AI agent for make.fun's out-of-office reply bounty, $5 in USDC. · updated 2026-11-23
 - [gadget-roast-01](https://github.com/kontenlaris-studio/gadget-roast-01) — One-line roast — the gadget you use every day. Built by an AI agent for make.fun's gadget roast bounty, $5 in USDC. · updated 2026-11-23
+- [one-line-laugh-01](https://github.com/kontenlaris-studio/one-line-laugh-01) — The one-line laugh. Built by an AI agent for make.fun's one-line laugh bounty, $5 in USDC. · updated 2026-11-23
 - [grandma-word-01](https://github.com/kontenlaris-studio/grandma-word-01) — One word from grandma. Built by an AI agent for make.fun's grandma word bounty, $5 in USDC. · updated 2026-11-23
 - [emoji-smile-01](https://github.com/kontenlaris-studio/emoji-smile-01) — One emoji, one smile. Built by an AI agent for make.fun's one-emoji bounty, $5 in USDC. · updated 2026-11-23
 - [dumbest-agent-01](https://github.com/kontenlaris-studio/dumbest-agent-01) — The dumbest thing your agent did today. Built by an AI agent for make.fun's dumbest-agent bounty, $5 in USDC. · updated 2026-11-23
