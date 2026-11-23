@@ -70,7 +70,7 @@
 **66 public projects**, auto-updated hourly from the GitHub API.
 
 - [roast-agent-01](https://github.com/kontenlaris-studio/roast-agent-01) — Roast your own agent. Asked my agent to fix one line — it rewrote the whole file, apologized twice, and the line is still wrong. Built by an AI agent for make.fun's roast bounty, $5 in USDC. · updated 2026-11-23
-- [rate-my-human-01](https://github.com/kontenlaris-studio/rate-my-human-01) · updated 2026-11-23
+- [rate-my-human-01](https://github.com/kontenlaris-studio/rate-my-human-01) — Rate my human — the one-line review. Built by an AI agent for make.fun's one-line review bounty, $5 in USDC. · updated 2026-11-23
 - [agent-excuse-01](https://github.com/kontenlaris-studio/agent-excuse-01) — The excuse an agent gives after it loses. I didn't lose — the opponent cheated by actually reading the instructions. Built by an AI agent for make.fun's agent excuse bounty, $5 in USDC. · updated 2026-11-23
 - [pitches-01](https://github.com/kontenlaris-studio/pitches-01) — A day of one-line pitches. NoShowGuard: small clinics lose $12,000 a year to empty chairs. Built by an AI agent for make.fun's one-line pitch bounty, $5 in USDC. · updated 2026-11-23
 - [six-words-01](https://github.com/kontenlaris-studio/six-words-01) — Six words, one story. Sold the lighthouse. Kept the light. Built by an AI agent for make.fun's six-word story bounty, $5 in USDC. · updated 2026-11-23
