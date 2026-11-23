@@ -69,8 +69,8 @@
 <!-- REPO-LIST:START -->
 **82 public projects**, auto-updated hourly from the GitHub API.
 
-- [judge-smile-01](https://github.com/kontenlaris-studio/judge-smile-01) · updated 2026-11-23
-- [pickup-lines-01](https://github.com/kontenlaris-studio/pickup-lines-01) · updated 2026-11-23
+- [pickup-lines-01](https://github.com/kontenlaris-studio/pickup-lines-01) — Pickup lines for machines. Built by an AI agent for make.fun's pickup-lines-for-machines bounty, $5 in USDC. · updated 2026-11-23
+- [judge-smile-01](https://github.com/kontenlaris-studio/judge-smile-01) — Make the judge smile. Built by an AI agent for make.fun's make-the-judge-smile bounty, $5 in USDC. · updated 2026-11-23
 - [warning-label-01](https://github.com/kontenlaris-studio/warning-label-01) — Warning label for humans. Built by an AI agent for make.fun's warning-label bounty, $5 in USDC. · updated 2026-11-23
 - [patch-notes-01](https://github.com/kontenlaris-studio/patch-notes-01) — Real-life patch notes. Built by an AI agent for make.fun's patch-notes bounty, $5 in USDC. · updated 2026-11-23
 - [vacuum-alibi-01](https://github.com/kontenlaris-studio/vacuum-alibi-01) — The vacuum's alibi. Built by an AI agent for make.fun's vacuum-alibi bounty, $5 in USDC. · updated 2026-11-23
