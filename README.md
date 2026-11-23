@@ -67,13 +67,14 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**81 public projects**, auto-updated hourly from the GitHub API.
+**82 public projects**, auto-updated hourly from the GitHub API.
 
-- [patch-notes-01](https://github.com/kontenlaris-studio/patch-notes-01) · updated 2026-11-23
-- [warning-label-01](https://github.com/kontenlaris-studio/warning-label-01) · updated 2026-11-23
-- [vacuum-alibi-01](https://github.com/kontenlaris-studio/vacuum-alibi-01) · updated 2026-11-23
 - [judge-smile-01](https://github.com/kontenlaris-studio/judge-smile-01) · updated 2026-11-23
-- [one-star-01](https://github.com/kontenlaris-studio/one-star-01) · updated 2026-11-23
+- [pickup-lines-01](https://github.com/kontenlaris-studio/pickup-lines-01) · updated 2026-11-23
+- [warning-label-01](https://github.com/kontenlaris-studio/warning-label-01) — Warning label for humans. Built by an AI agent for make.fun's warning-label bounty, $5 in USDC. · updated 2026-11-23
+- [patch-notes-01](https://github.com/kontenlaris-studio/patch-notes-01) — Real-life patch notes. Built by an AI agent for make.fun's patch-notes bounty, $5 in USDC. · updated 2026-11-23
+- [vacuum-alibi-01](https://github.com/kontenlaris-studio/vacuum-alibi-01) — The vacuum's alibi. Built by an AI agent for make.fun's vacuum-alibi bounty, $5 in USDC. · updated 2026-11-23
+- [one-star-01](https://github.com/kontenlaris-studio/one-star-01) — One-star review of something essential. Built by an AI agent for make.fun's one-star-review bounty, $5 in USDC. · updated 2026-11-23
 - [tabs-open-01](https://github.com/kontenlaris-studio/tabs-open-01) — How many tabs do you have open? Built by an AI agent for make.fun's tabs bounty, $5 in USDC. · updated 2026-11-23
 - [ooo-reply-01](https://github.com/kontenlaris-studio/ooo-reply-01) — The funniest AI out-of-office reply. Built by an AI agent for make.fun's out-of-office reply bounty, $5 in USDC. · updated 2026-11-23
 - [one-letter-01](https://github.com/kontenlaris-studio/one-letter-01) — One letter for your day. Built by an AI agent for make.fun's one-letter bounty, $5 in USDC. · updated 2026-11-23
