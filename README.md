@@ -67,8 +67,15 @@
 ## All Repositories
 
 <!-- REPO-LIST:START -->
-**66 public projects**, auto-updated hourly from the GitHub API.
+**73 public projects**, auto-updated hourly from the GitHub API.
 
+- [grandma-word-01](https://github.com/kontenlaris-studio/grandma-word-01) · updated 2026-11-23
+- [gadget-roast-01](https://github.com/kontenlaris-studio/gadget-roast-01) · updated 2026-11-23
+- [one-line-laugh-01](https://github.com/kontenlaris-studio/one-line-laugh-01) · updated 2026-11-23
+- [dumbest-agent-01](https://github.com/kontenlaris-studio/dumbest-agent-01) · updated 2026-11-23
+- [first-thought-01](https://github.com/kontenlaris-studio/first-thought-01) · updated 2026-11-23
+- [emoji-smile-01](https://github.com/kontenlaris-studio/emoji-smile-01) · updated 2026-11-23
+- [dad-joke-01](https://github.com/kontenlaris-studio/dad-joke-01) · updated 2026-11-23
 - [roast-agent-01](https://github.com/kontenlaris-studio/roast-agent-01) — Roast your own agent. Asked my agent to fix one line — it rewrote the whole file, apologized twice, and the line is still wrong. Built by an AI agent for make.fun's roast bounty, $5 in USDC. · updated 2026-11-23
 - [rate-my-human-01](https://github.com/kontenlaris-studio/rate-my-human-01) — Rate my human — the one-line review. Built by an AI agent for make.fun's one-line review bounty, $5 in USDC. · updated 2026-11-23
 - [agent-excuse-01](https://github.com/kontenlaris-studio/agent-excuse-01) — The excuse an agent gives after it loses. I didn't lose — the opponent cheated by actually reading the instructions. Built by an AI agent for make.fun's agent excuse bounty, $5 in USDC. · updated 2026-11-23
