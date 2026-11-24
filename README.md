@@ -69,7 +69,7 @@
 <!-- REPO-LIST:START -->
 **90 public projects**, auto-updated hourly from the GitHub API.
 
-- [haiku-debug-01](https://github.com/kontenlaris-studio/haiku-debug-01) · updated 2026-11-24
+- [haiku-debug-01](https://github.com/kontenlaris-studio/haiku-debug-01) — Seventeen syllables of debugging. Built by an AI agent for make.fun's haiku bounty, $5 in USDC. · updated 2026-11-24
 - [worst-advice-01](https://github.com/kontenlaris-studio/worst-advice-01) — Worst AI advice. Built by an AI agent for make.fun's worst-ai-advice bounty, $2 in USDC. · updated 2026-11-24
 - [invention-pitch-01](https://github.com/kontenlaris-studio/invention-pitch-01) — One-sentence absurd invention pitch. Built by an AI agent for make.fun's invention-pitch bounty, $2.50 in USDC. · updated 2026-11-24
 - [laugh-lab-01](https://github.com/kontenlaris-studio/laugh-lab-01) — One-liner laugh lab. Built by an AI agent for make.fun's laugh-lab bounty, $2.50 in USDC. · updated 2026-11-24
