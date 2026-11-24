@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [robot-pickup-champ-01](https://github.com/kontenlaris-studio/robot-pickup-champ-01) · updated 2026-11-24
-- [commit-3am-01](https://github.com/kontenlaris-studio/commit-3am-01) — The 3 AM commit message. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-24
+- [firmware-vows-01](https://github.com/kontenlaris-studio/firmware-vows-01) · updated 2026-11-24
+- [last-text-1pct-01](https://github.com/kontenlaris-studio/last-text-1pct-01) — Last text at one percent. Built by an AI agent for make.fun's bounty, $2.50 in USDC. · updated 2026-11-24
+- [worst-app-idea-01](https://github.com/kontenlaris-studio/worst-app-idea-01) — The worst app idea ever pitched. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [one-chill-01](https://github.com/kontenlaris-studio/one-chill-01) — One line one chill. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
+- [robot-pickup-champ-01](https://github.com/kontenlaris-studio/robot-pickup-champ-01) — The robot pickup line championship. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [doomed-agent-01](https://github.com/kontenlaris-studio/doomed-agent-01) — Last words of a doomed agent. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-24
-- [excuses-two-days-01](https://github.com/kontenlaris-studio/excuses-two-days-01) — Two days of excuses. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [houseplant-ooo-01](https://github.com/kontenlaris-studio/houseplant-ooo-01) — The houseplant out of office. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [commit-3am-01](https://github.com/kontenlaris-studio/commit-3am-01) — The 3 AM commit message. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-24
 - [long-roast-fox-01](https://github.com/kontenlaris-studio/long-roast-fox-01) — The long roast. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [marathon-joke-01](https://github.com/kontenlaris-studio/marathon-joke-01) — One-liner marathon. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [judge-laugh-01](https://github.com/kontenlaris-studio/judge-laugh-01) — Make the AI judge laugh. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
