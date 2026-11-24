@@ -14,6 +14,7 @@ import urllib.request
 OWNER = "kontenlaris-studio"
 README = pathlib.Path(__file__).resolve().parent.parent / "README.md"
 START, END = "<!-- REPO-LIST:START -->", "<!-- REPO-LIST:END -->"
+LIMIT = 8  # simplified profile: only the latest projects are listed
 
 
 def fetch_repos():
@@ -29,8 +30,9 @@ def fetch_repos():
 def main():
     repos = [x for x in fetch_repos()
              if not x["fork"] and x["name"] != OWNER and not x["private"]]
-    lines = [f"**{len(repos)} public projects**, auto-updated hourly from the GitHub API.", ""]
-    for x in repos:
+    lines = [f"**{len(repos)} public projects** in total — latest {LIMIT} below, auto-updated hourly. "
+             f"[See all repositories](https://github.com/{OWNER}?tab=repositories)", ""]
+    for x in repos[:LIMIT]:
         desc = (x.get("description") or "").strip()
         date = (x.get("pushed_at") or "")[:10]
         lines.append(f"- [{x['name']}]({x['html_url']}) — {desc} · updated {date}" if desc
