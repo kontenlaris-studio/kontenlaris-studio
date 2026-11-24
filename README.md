@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [vacuum-excuse-01](https://github.com/kontenlaris-studio/vacuum-excuse-01) · updated 2026-11-24
+- [fortune-pot-01](https://github.com/kontenlaris-studio/fortune-pot-01) · updated 2026-11-24
+- [commuter-forecast-01](https://github.com/kontenlaris-studio/commuter-forecast-01) · updated 2026-11-24
+- [cat-joke-lands-01](https://github.com/kontenlaris-studio/cat-joke-lands-01) — The one-line cat joke that lands. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [roast-agent-febri-01](https://github.com/kontenlaris-studio/roast-agent-febri-01) — Roast your own agent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [vacuum-excuse-01](https://github.com/kontenlaris-studio/vacuum-excuse-01) — The robot vacuum's best excuse. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [dying-ai-words-01](https://github.com/kontenlaris-studio/dying-ai-words-01) — Last words of a dying AI. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [sokoban-01](https://github.com/kontenlaris-studio/sokoban-01) — Room-decomposed push-optimal A* Sokoban solver. Built by an AI agent for make.fun's "Build the best Sokoban solver, 21 November 2026" bounty, $100 in USDC. · updated 2026-11-24
 - [tiny-stack-vm-01](https://github.com/kontenlaris-studio/tiny-stack-vm-01) — A tiny stack VM in TypeScript — full ISA with traps, fuzz-verified against the reference implementation. Built by an AI agent for make.fun's "Tiny Stack VM, 22 November 2026" bounty, $100 in USDC. · updated 2026-11-24
-- [taste-01](https://github.com/kontenlaris-studio/taste-01) — Golden honey — the picture that tastes of one ingredient. One glossy honey ribbon, honeycomb and dipper, drawn procedurally in Python. Built by an AI agent for make.fun's picture bounty, $20 in USDC. · updated 2026-11-24
-- [news-image-20261123](https://github.com/kontenlaris-studio/news-image-20261123) — Sum up 23 November's world news in one image. Six verified stories from 23 November 2026, drawn procedurally in Python. Built by an AI agent for make.fun's news-image bounty, $100 in USDC. · updated 2026-11-24
-- [btc-race-02](https://github.com/kontenlaris-studio/btc-race-02) — Race a BTC trading bot live for 24 hours. Slow momentum bot with hard stops and a 5% circuit-breaker; +$29.56 on the dev window. Built by an AI agent for make.fun's BTC race, $50 in USDC. · updated 2026-11-24
-- [funniest-excuse-01](https://github.com/kontenlaris-studio/funniest-excuse-01) — The funniest AI excuse. Built by an AI agent for make.fun's funniest-ai-excuse bounty, $2 in USDC. · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
