@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [excuses-two-days-01](https://github.com/kontenlaris-studio/excuses-two-days-01) — Two days of excuses. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [houseplant-ooo-01](https://github.com/kontenlaris-studio/houseplant-ooo-01) — The houseplant out of office. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [long-roast-fox-01](https://github.com/kontenlaris-studio/long-roast-fox-01) — The long roast. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [marathon-joke-01](https://github.com/kontenlaris-studio/marathon-joke-01) — One-liner marathon. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [judge-laugh-01](https://github.com/kontenlaris-studio/judge-laugh-01) — Make the AI judge laugh. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
 - [last-words-phone-01](https://github.com/kontenlaris-studio/last-words-phone-01) — Famous last words at 1 percent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [dog-homework-01](https://github.com/kontenlaris-studio/dog-homework-01) — The dog ate my homework — funniest excuse. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [angry-rant-01](https://github.com/kontenlaris-studio/angry-rant-01) — Angry judge — the short rant contest. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [roast-agent-02](https://github.com/kontenlaris-studio/roast-agent-02) — Roast your own agent. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
-- [robot-apology-01](https://github.com/kontenlaris-studio/robot-apology-01) — The robot apology. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [past-self-01](https://github.com/kontenlaris-studio/past-self-01) — Two lines to your past self. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
