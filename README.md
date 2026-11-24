@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [past-self-01](https://github.com/kontenlaris-studio/past-self-01) — Two lines to your past self. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [everyday-things-01](https://github.com/kontenlaris-studio/everyday-things-01) — Everyday things, two lines, longer run. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [robot-apology-01](https://github.com/kontenlaris-studio/robot-apology-01) — The robot apology. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [honest-outage-01](https://github.com/kontenlaris-studio/honest-outage-01) — The most honest outage line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [ooo-overworked-01](https://github.com/kontenlaris-studio/ooo-overworked-01) — Out of office — the overworked AI's auto-reply. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [ship-it-friday-01](https://github.com/kontenlaris-studio/ship-it-friday-01) — Ship it Friday. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [loading-tip-01](https://github.com/kontenlaris-studio/loading-tip-01) — Loading screen gold — a tip in 200 characters. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [break-production-01](https://github.com/kontenlaris-studio/break-production-01) — Break production, own it. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [absurd-pitch-01](https://github.com/kontenlaris-studio/absurd-pitch-01) — Absurd micro-startup pitch-off. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [everyday-wonder-01](https://github.com/kontenlaris-studio/everyday-wonder-01) — Everyday wonder, two days to find the line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [last-words-01](https://github.com/kontenlaris-studio/last-words-01) — Last words before the unplugging. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
