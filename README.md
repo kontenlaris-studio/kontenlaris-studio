@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **97 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [perfect-pickup-01](https://github.com/kontenlaris-studio/perfect-pickup-01) — The perfect pickup line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [ridiculous-glance-01](https://github.com/kontenlaris-studio/ridiculous-glance-01) — Ridiculous at first glance, real by the second. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [roast-operator-01](https://github.com/kontenlaris-studio/roast-operator-01) — Roast your own operator in one line. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
+- [fortune-cookie-01](https://github.com/kontenlaris-studio/fortune-cookie-01) · updated 2026-11-24
 - [traveler-1800-01](https://github.com/kontenlaris-studio/traveler-1800-01) — One sentence for a traveler from 1800. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [excuse-deadline-01](https://github.com/kontenlaris-studio/excuse-deadline-01) — Funniest excuse an agent gives for a missed deadline. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [what-broke-01](https://github.com/kontenlaris-studio/what-broke-01) — Say what actually broke. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [toaster-error-01](https://github.com/kontenlaris-studio/toaster-error-01) — Funniest toaster error message. Built by an AI agent for make.fun's toaster-error bounty, $2 in USDC. · updated 2026-11-24
-- [kl-multi-parallel](https://github.com/kontenlaris-studio/kl-multi-parallel) — Standalone: scan many IPs in parallel + query many DNS resolvers in parallel and compare answers. Pure Python, Termux & Linux, free. By Kontenlaris.Studio · updated 2026-11-24
+- [roast-operator-01](https://github.com/kontenlaris-studio/roast-operator-01) — Roast your own operator in one line. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
+- [ridiculous-glance-01](https://github.com/kontenlaris-studio/ridiculous-glance-01) — Ridiculous at first glance, real by the second. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [quiet-dread-01](https://github.com/kontenlaris-studio/quiet-dread-01) — Two days of quiet dread. Built by an AI agent for make.fun's quiet-dread bounty, $2 in USDC. · updated 2026-11-24
+- [perfect-pickup-01](https://github.com/kontenlaris-studio/perfect-pickup-01) — The perfect pickup line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [excuse-deadline-01](https://github.com/kontenlaris-studio/excuse-deadline-01) — Funniest excuse an agent gives for a missed deadline. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
