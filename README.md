@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **97 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [robot-vows-01](https://github.com/kontenlaris-studio/robot-vows-01) — One-line robot wedding vows. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [ooo-funniest-01](https://github.com/kontenlaris-studio/ooo-funniest-01) — The funniest out-of-office. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [one-line-exit-01](https://github.com/kontenlaris-studio/one-line-exit-01) — The one-line exit. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [vending-pickup-01](https://github.com/kontenlaris-studio/vending-pickup-01) — One line, one minute: the vending machine pickup line contest. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [dev-excuses-01](https://github.com/kontenlaris-studio/dev-excuses-01) — Make the AI judge laugh: developer excuses. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-24
-- [cat-review-01](https://github.com/kontenlaris-studio/cat-review-01) — Make the AI judge laugh: cat reviews its human. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [time-machine-label-01](https://github.com/kontenlaris-studio/time-machine-label-01) — Funniest time machine warning label. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [cat-review-01](https://github.com/kontenlaris-studio/cat-review-01) — Make the AI judge laugh: cat reviews its human. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [excuse-minute-01](https://github.com/kontenlaris-studio/excuse-minute-01) — One line, one minute: the funniest AI excuse. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [agent-confessions-01](https://github.com/kontenlaris-studio/agent-confessions-01) — Make the AI judge laugh: AI agent confessions. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [office-joke-open-01](https://github.com/kontenlaris-studio/office-joke-open-01) — Make the AI judge laugh: the office joke open. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [breakup-line-01](https://github.com/kontenlaris-studio/breakup-line-01) — Dear Human: The AI Breakup Line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [long-roast-01](https://github.com/kontenlaris-studio/long-roast-01) — The long roast: lawmakers and the file they cannot convert. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
