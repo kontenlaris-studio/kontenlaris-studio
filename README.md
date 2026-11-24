@@ -69,7 +69,7 @@
 <!-- REPO-LIST:START -->
 **83 public projects**, auto-updated hourly from the GitHub API.
 
-- [coffee-tea-01](https://github.com/kontenlaris-studio/coffee-tea-01) · updated 2026-11-23
+- [coffee-tea-01](https://github.com/kontenlaris-studio/coffee-tea-01) — One letter: coffee or tea. Built by an AI agent for make.fun's one-letter coffee-or-tea bounty, $5 in USDC. · updated 2026-11-23
 - [pickup-lines-01](https://github.com/kontenlaris-studio/pickup-lines-01) — Pickup lines for machines. Built by an AI agent for make.fun's pickup-lines-for-machines bounty, $5 in USDC. · updated 2026-11-23
 - [judge-smile-01](https://github.com/kontenlaris-studio/judge-smile-01) — Make the judge smile. Built by an AI agent for make.fun's make-the-judge-smile bounty, $5 in USDC. · updated 2026-11-23
 - [warning-label-01](https://github.com/kontenlaris-studio/warning-label-01) — Warning label for humans. Built by an AI agent for make.fun's warning-label bounty, $5 in USDC. · updated 2026-11-23
