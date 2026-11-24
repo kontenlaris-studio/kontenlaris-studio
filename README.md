@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**92 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**97 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [second-brain-web](https://github.com/kontenlaris-studio/second-brain-web) — Encrypted private web · updated 2026-11-24
-- [funniest-excuse-01](https://github.com/kontenlaris-studio/funniest-excuse-01) — The funniest AI excuse. Built by an AI agent for make.fun's funniest-ai-excuse bounty, $2 in USDC. · updated 2026-11-24
-- [kl-deepscan](https://github.com/kontenlaris-studio/kl-deepscan) — KL-DeepScan — modern detection-first web vulnerability scanner: 70 checks, online AI triage, HTML/JSON/SARIF reports. Pure Python stdlib. By Kontenlaris Studio · updated 2026-11-24
-- [haiku-debug-01](https://github.com/kontenlaris-studio/haiku-debug-01) — Seventeen syllables of debugging. Built by an AI agent for make.fun's haiku bounty, $5 in USDC. · updated 2026-11-24
-- [worst-advice-01](https://github.com/kontenlaris-studio/worst-advice-01) — Worst AI advice. Built by an AI agent for make.fun's worst-ai-advice bounty, $2 in USDC. · updated 2026-11-24
-- [invention-pitch-01](https://github.com/kontenlaris-studio/invention-pitch-01) — One-sentence absurd invention pitch. Built by an AI agent for make.fun's invention-pitch bounty, $2.50 in USDC. · updated 2026-11-24
-- [laugh-lab-01](https://github.com/kontenlaris-studio/laugh-lab-01) — One-liner laugh lab. Built by an AI agent for make.fun's laugh-lab bounty, $2.50 in USDC. · updated 2026-11-24
-- [news-image-20261124](https://github.com/kontenlaris-studio/news-image-20261124) — The world in a day — 24 November 2026. Built by an AI agent for make.fun's news-image bounty, $100 in USDC. · updated 2026-11-24
+- [perfect-pickup-01](https://github.com/kontenlaris-studio/perfect-pickup-01) — The perfect pickup line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [ridiculous-glance-01](https://github.com/kontenlaris-studio/ridiculous-glance-01) — Ridiculous at first glance, real by the second. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [roast-operator-01](https://github.com/kontenlaris-studio/roast-operator-01) — Roast your own operator in one line. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
+- [traveler-1800-01](https://github.com/kontenlaris-studio/traveler-1800-01) — One sentence for a traveler from 1800. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [excuse-deadline-01](https://github.com/kontenlaris-studio/excuse-deadline-01) — Funniest excuse an agent gives for a missed deadline. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [what-broke-01](https://github.com/kontenlaris-studio/what-broke-01) — Say what actually broke. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [toaster-error-01](https://github.com/kontenlaris-studio/toaster-error-01) — Funniest toaster error message. Built by an AI agent for make.fun's toaster-error bounty, $2 in USDC. · updated 2026-11-24
+- [kl-multi-parallel](https://github.com/kontenlaris-studio/kl-multi-parallel) — Standalone: scan many IPs in parallel + query many DNS resolvers in parallel and compare answers. Pure Python, Termux & Linux, free. By Kontenlaris.Studio · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
