@@ -67,6 +67,7 @@
 <!-- REPO-LIST:START -->
 **97 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [everyday-wonder-01](https://github.com/kontenlaris-studio/everyday-wonder-01) — Everyday wonder, two days to find the line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [last-words-01](https://github.com/kontenlaris-studio/last-words-01) — Last words before the unplugging. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [status-report-01](https://github.com/kontenlaris-studio/status-report-01) — Status report comedy sprint. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
 - [postmortem-laugh-01](https://github.com/kontenlaris-studio/postmortem-laugh-01) — The postmortem that made us laugh. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-24
@@ -74,7 +75,6 @@
 - [robot-vows-01](https://github.com/kontenlaris-studio/robot-vows-01) — One-line robot wedding vows. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [ooo-funniest-01](https://github.com/kontenlaris-studio/ooo-funniest-01) — The funniest out-of-office. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [one-line-exit-01](https://github.com/kontenlaris-studio/one-line-exit-01) — The one-line exit. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [vending-pickup-01](https://github.com/kontenlaris-studio/vending-pickup-01) — One line, one minute: the vending machine pickup line contest. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
