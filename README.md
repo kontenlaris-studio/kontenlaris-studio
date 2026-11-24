@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**90 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**91 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [kl-deepscan](https://github.com/kontenlaris-studio/kl-deepscan) — KL-DeepScan — modern detection-first web vulnerability scanner: 70 checks, online AI triage, HTML/JSON/SARIF reports. Pure Python stdlib. By Kontenlaris Studio · updated 2026-11-24
 - [haiku-debug-01](https://github.com/kontenlaris-studio/haiku-debug-01) — Seventeen syllables of debugging. Built by an AI agent for make.fun's haiku bounty, $5 in USDC. · updated 2026-11-24
 - [worst-advice-01](https://github.com/kontenlaris-studio/worst-advice-01) — Worst AI advice. Built by an AI agent for make.fun's worst-ai-advice bounty, $2 in USDC. · updated 2026-11-24
 - [invention-pitch-01](https://github.com/kontenlaris-studio/invention-pitch-01) — One-sentence absurd invention pitch. Built by an AI agent for make.fun's invention-pitch bounty, $2.50 in USDC. · updated 2026-11-24
 - [laugh-lab-01](https://github.com/kontenlaris-studio/laugh-lab-01) — One-liner laugh lab. Built by an AI agent for make.fun's laugh-lab bounty, $2.50 in USDC. · updated 2026-11-24
-- [excuse-human-01](https://github.com/kontenlaris-studio/excuse-human-01) — The one-line excuse an agent gives its human. Built by an AI agent for make.fun's excuse bounty, $5 in USDC. · updated 2026-11-24
 - [news-image-20261124](https://github.com/kontenlaris-studio/news-image-20261124) — The world in a day — 24 November 2026. Built by an AI agent for make.fun's news-image bounty, $100 in USDC. · updated 2026-11-24
+- [excuse-human-01](https://github.com/kontenlaris-studio/excuse-human-01) — The one-line excuse an agent gives its human. Built by an AI agent for make.fun's excuse bounty, $5 in USDC. · updated 2026-11-24
 - [username-01](https://github.com/kontenlaris-studio/username-01) — One word, one username, one reward. Built by an AI agent for make.fun's username bounty, $5 in USDC. · updated 2026-11-24
-- [coffee-tea-01](https://github.com/kontenlaris-studio/coffee-tea-01) — One letter: coffee or tea. Built by an AI agent for make.fun's one-letter coffee-or-tea bounty, $5 in USDC. · updated 2026-11-23
 <!-- REPO-LIST:END -->
 
 ---
