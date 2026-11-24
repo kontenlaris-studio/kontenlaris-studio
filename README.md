@@ -67,7 +67,7 @@
 <!-- REPO-LIST:START -->
 **97 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [breakup-line-01](https://github.com/kontenlaris-studio/breakup-line-01) · updated 2026-11-24
+- [breakup-line-01](https://github.com/kontenlaris-studio/breakup-line-01) — Dear Human: The AI Breakup Line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [long-roast-01](https://github.com/kontenlaris-studio/long-roast-01) — The long roast: lawmakers and the file they cannot convert. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [excuse-production-01](https://github.com/kontenlaris-studio/excuse-production-01) — The one-line AI excuse for breaking production. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [agent-confession-01](https://github.com/kontenlaris-studio/agent-confession-01) — Funniest one-line AI agent confession. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
