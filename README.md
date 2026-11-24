@@ -67,7 +67,7 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [roast-agent-02](https://github.com/kontenlaris-studio/roast-agent-02) · updated 2026-11-24
+- [roast-agent-02](https://github.com/kontenlaris-studio/roast-agent-02) — Roast your own agent. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
 - [robot-apology-01](https://github.com/kontenlaris-studio/robot-apology-01) — The robot apology. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [past-self-01](https://github.com/kontenlaris-studio/past-self-01) — Two lines to your past self. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [everyday-things-01](https://github.com/kontenlaris-studio/everyday-things-01) — Everyday things, two lines, longer run. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
