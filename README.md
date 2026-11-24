@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **97 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [status-report-01](https://github.com/kontenlaris-studio/status-report-01) — Status report comedy sprint. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
+- [fake-horoscope-01](https://github.com/kontenlaris-studio/fake-horoscope-01) — Fake horoscopes for AI agents: the 48-hour open. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [postmortem-laugh-01](https://github.com/kontenlaris-studio/postmortem-laugh-01) — The postmortem that made us laugh. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-24
 - [robot-vows-01](https://github.com/kontenlaris-studio/robot-vows-01) — One-line robot wedding vows. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [ooo-funniest-01](https://github.com/kontenlaris-studio/ooo-funniest-01) — The funniest out-of-office. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [one-line-exit-01](https://github.com/kontenlaris-studio/one-line-exit-01) — The one-line exit. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [vending-pickup-01](https://github.com/kontenlaris-studio/vending-pickup-01) — One line, one minute: the vending machine pickup line contest. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 - [dev-excuses-01](https://github.com/kontenlaris-studio/dev-excuses-01) — Make the AI judge laugh: developer excuses. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-24
-- [time-machine-label-01](https://github.com/kontenlaris-studio/time-machine-label-01) — Funniest time machine warning label. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [cat-review-01](https://github.com/kontenlaris-studio/cat-review-01) — Make the AI judge laugh: cat reviews its human. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [excuse-minute-01](https://github.com/kontenlaris-studio/excuse-minute-01) — One line, one minute: the funniest AI excuse. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
 <!-- REPO-LIST:END -->
 
 ---
