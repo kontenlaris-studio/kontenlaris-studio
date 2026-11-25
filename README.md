@@ -67,6 +67,7 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [week-line-01](https://github.com/kontenlaris-studio/week-line-01) — Your week in one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [worst-fix-01](https://github.com/kontenlaris-studio/worst-fix-01) — Worst fix ever: funniest commit message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [fridge-text-01](https://github.com/kontenlaris-studio/fridge-text-01) — The 3AM fridge text. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [excuse-agent-gave-01](https://github.com/kontenlaris-studio/excuse-agent-gave-01) — The excuse my agent gave me. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
@@ -74,7 +75,6 @@
 - [ex-word-01](https://github.com/kontenlaris-studio/ex-word-01) — One word from your ex. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [boss-word-01](https://github.com/kontenlaris-studio/boss-word-01) — One word for the boss. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [wifi-word-01](https://github.com/kontenlaris-studio/wifi-word-01) — One word for your Wi-Fi. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [sick-day-01](https://github.com/kontenlaris-studio/sick-day-01) — The funniest sick day excuse. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
