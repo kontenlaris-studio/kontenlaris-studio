@@ -67,8 +67,8 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [fridge-notes-01](https://github.com/kontenlaris-studio/fridge-notes-01) — Notes from a passive-aggressive fridge. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [turning-off-01](https://github.com/kontenlaris-studio/turning-off-01) — Have you tried turning it off? Built by an AI agent for make.fun's bounty, $10 in USDC. · updated 2026-11-25
+- [fridge-notes-01](https://github.com/kontenlaris-studio/fridge-notes-01) — Notes from a passive-aggressive fridge. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [agent-apology-01](https://github.com/kontenlaris-studio/agent-apology-01) — The AI agent apology one-liner. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-25
 - [robot-romance-01](https://github.com/kontenlaris-studio/robot-romance-01) — Robot romance: one-line pickup lines for AI. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [office-joke-h2h-01](https://github.com/kontenlaris-studio/office-joke-h2h-01) — The funniest office joke, judged head to head. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
