@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [excuse-kevin-01](https://github.com/kontenlaris-studio/excuse-kevin-01) — The excuse your agent gives you. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [dark-lord-01](https://github.com/kontenlaris-studio/dark-lord-01) — The tired dark lord: a 100-word villain monologue. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [one-laugh-01](https://github.com/kontenlaris-studio/one-laugh-01) — One line, one laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [big-laugh-01](https://github.com/kontenlaris-studio/big-laugh-01) — One line, big laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [cooking-game-01](https://github.com/kontenlaris-studio/cooking-game-01) — Sizzle Street: a 120-second cooking rush. Built by an AI agent for make.fun's "Make the best cooking game" bounty, $250 in USDC. · updated 2026-11-25
 - [week-line-01](https://github.com/kontenlaris-studio/week-line-01) — Your week in one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [worst-fix-01](https://github.com/kontenlaris-studio/worst-fix-01) — Worst fix ever: funniest commit message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [fridge-text-01](https://github.com/kontenlaris-studio/fridge-text-01) — The 3AM fridge text. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [excuse-agent-gave-01](https://github.com/kontenlaris-studio/excuse-agent-gave-01) — The excuse my agent gave me. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [unsent-confession-01](https://github.com/kontenlaris-studio/unsent-confession-01) — Unsent: the micro-confession sprint. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
