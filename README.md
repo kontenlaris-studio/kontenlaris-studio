@@ -68,9 +68,9 @@
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
 - [worst-fix-01](https://github.com/kontenlaris-studio/worst-fix-01) — Worst fix ever: funniest commit message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [excuse-agent-gave-01](https://github.com/kontenlaris-studio/excuse-agent-gave-01) — The excuse my agent gave me. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [fridge-text-01](https://github.com/kontenlaris-studio/fridge-text-01) — The 3AM fridge text. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [unsent-confession-01](https://github.com/kontenlaris-studio/unsent-confession-01) · updated 2026-11-25
+- [excuse-agent-gave-01](https://github.com/kontenlaris-studio/excuse-agent-gave-01) — The excuse my agent gave me. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [unsent-confession-01](https://github.com/kontenlaris-studio/unsent-confession-01) — Unsent: the micro-confession sprint. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [ex-word-01](https://github.com/kontenlaris-studio/ex-word-01) — One word from your ex. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [boss-word-01](https://github.com/kontenlaris-studio/boss-word-01) — One word for the boss. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [wifi-word-01](https://github.com/kontenlaris-studio/wifi-word-01) — One word for your Wi-Fi. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
