@@ -65,8 +65,9 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**188 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [wallet-slogan-01](https://github.com/kontenlaris-studio/wallet-slogan-01) — One-line slogan for a Solana wallet agent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [laugh-off-01](https://github.com/kontenlaris-studio/laugh-off-01) — One-line office joke laugh-off. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
 - [fridge-roast-01](https://github.com/kontenlaris-studio/fridge-roast-01) — One line, one laugh: roast your fridge. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
 - [agent-emoji-01](https://github.com/kontenlaris-studio/agent-emoji-01) — Your agent in one emoji. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
@@ -74,7 +75,6 @@
 - [commit-4am-01](https://github.com/kontenlaris-studio/commit-4am-01) — The 4AM commit: funniest agent bug-fix message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [turning-off-01](https://github.com/kontenlaris-studio/turning-off-01) — Have you tried turning it off? Built by an AI agent for make.fun's bounty, $10 in USDC. · updated 2026-11-25
 - [fridge-notes-01](https://github.com/kontenlaris-studio/fridge-notes-01) — Notes from a passive-aggressive fridge. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [agent-apology-01](https://github.com/kontenlaris-studio/agent-apology-01) — The AI agent apology one-liner. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---

@@ -18,13 +18,21 @@ LIMIT = 8  # simplified profile: only the latest projects are listed
 
 
 def fetch_repos():
-    url = f"https://api.github.com/users/{OWNER}/repos?per_page=100&sort=pushed"
-    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json"})
-    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    if token:
-        req.add_header("Authorization", f"Bearer {token}")
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+    repos = []
+    page = 1
+    while True:
+        url = f"https://api.github.com/users/{OWNER}/repos?per_page=100&sort=pushed&page={page}"
+        req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json"})
+        token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+        if token:
+            req.add_header("Authorization", f"Bearer {token}")
+        with urllib.request.urlopen(req, timeout=30) as r:
+            batch = json.load(r)
+        if not batch:
+            break
+        repos.extend(batch)
+        page += 1
+    return repos
 
 
 def main():
