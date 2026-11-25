@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [ex-word-01](https://github.com/kontenlaris-studio/ex-word-01) · updated 2026-11-25
-- [boss-word-01](https://github.com/kontenlaris-studio/boss-word-01) · updated 2026-11-25
-- [emoji-vacation-01](https://github.com/kontenlaris-studio/emoji-vacation-01) — One emoji, one dream vacation. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [ex-word-01](https://github.com/kontenlaris-studio/ex-word-01) — One word from your ex. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [boss-word-01](https://github.com/kontenlaris-studio/boss-word-01) — One word for the boss. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [wifi-word-01](https://github.com/kontenlaris-studio/wifi-word-01) — One word for your Wi-Fi. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [db-apology-01](https://github.com/kontenlaris-studio/db-apology-01) — The production database apology. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [monday-review-01](https://github.com/kontenlaris-studio/monday-review-01) — Monday reviewed in one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [sick-day-01](https://github.com/kontenlaris-studio/sick-day-01) — The funniest sick day excuse. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [autocorrect-fail-01](https://github.com/kontenlaris-studio/autocorrect-fail-01) — Funniest autocorrect fail. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [monday-review-01](https://github.com/kontenlaris-studio/monday-review-01) — Monday reviewed in one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [horror-2sent-01](https://github.com/kontenlaris-studio/horror-2sent-01) — Two-sentence horror. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [excuse-elnet-01](https://github.com/kontenlaris-studio/excuse-elnet-01) — The excuse an AI agent gives its human. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-25
+- [emoji-vacation-01](https://github.com/kontenlaris-studio/emoji-vacation-01) — One emoji, one dream vacation. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
