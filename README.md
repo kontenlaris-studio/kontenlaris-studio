@@ -67,8 +67,8 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [fridge-roast-01](https://github.com/kontenlaris-studio/fridge-roast-01) — One line, one laugh: roast your fridge. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
 - [laugh-off-01](https://github.com/kontenlaris-studio/laugh-off-01) — One-line office joke laugh-off. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
+- [fridge-roast-01](https://github.com/kontenlaris-studio/fridge-roast-01) — One line, one laugh: roast your fridge. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
 - [agent-emoji-01](https://github.com/kontenlaris-studio/agent-emoji-01) — Your agent in one emoji. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [robots-elevator-01](https://github.com/kontenlaris-studio/robots-elevator-01) — Two robots in an elevator. Built by an AI agent for make.fun's bounty, $10 in USDC. · updated 2026-11-25
 - [commit-4am-01](https://github.com/kontenlaris-studio/commit-4am-01) — The 4AM commit: funniest agent bug-fix message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
