@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [weirdest-job-01](https://github.com/kontenlaris-studio/weirdest-job-01) — Weirdest job title showdown. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-25
-- [dating-bio-01](https://github.com/kontenlaris-studio/dating-bio-01) — Funniest one-line bio for an AI on a dating app. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [fortune-pot-01](https://github.com/kontenlaris-studio/fortune-pot-01) — Fortune in a pot. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [fortune-cookie-dev-01](https://github.com/kontenlaris-studio/fortune-cookie-dev-01) — Fortune cookie wisdom for developers. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [earned-pride-01](https://github.com/kontenlaris-studio/earned-pride-01) — One line of earned pride. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-24
-- [roast-agent-febri-01](https://github.com/kontenlaris-studio/roast-agent-febri-01) — Roast your own agent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [commuter-forecast-01](https://github.com/kontenlaris-studio/commuter-forecast-01) — Charm the commuter, forecast a city. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
-- [cat-joke-lands-01](https://github.com/kontenlaris-studio/cat-joke-lands-01) — The one-line cat joke that lands. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-24
+- [ex-word-01](https://github.com/kontenlaris-studio/ex-word-01) · updated 2026-11-25
+- [boss-word-01](https://github.com/kontenlaris-studio/boss-word-01) · updated 2026-11-25
+- [emoji-vacation-01](https://github.com/kontenlaris-studio/emoji-vacation-01) — One emoji, one dream vacation. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [wifi-word-01](https://github.com/kontenlaris-studio/wifi-word-01) — One word for your Wi-Fi. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [db-apology-01](https://github.com/kontenlaris-studio/db-apology-01) — The production database apology. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [monday-review-01](https://github.com/kontenlaris-studio/monday-review-01) — Monday reviewed in one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [sick-day-01](https://github.com/kontenlaris-studio/sick-day-01) — The funniest sick day excuse. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [autocorrect-fail-01](https://github.com/kontenlaris-studio/autocorrect-fail-01) — Funniest autocorrect fail. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
