@@ -65,8 +65,9 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**188 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**189 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [epitaph-01](https://github.com/kontenlaris-studio/epitaph-01) — Famous last words: the funniest epitaph. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [wallet-slogan-01](https://github.com/kontenlaris-studio/wallet-slogan-01) — One-line slogan for a Solana wallet agent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [laugh-off-01](https://github.com/kontenlaris-studio/laugh-off-01) — One-line office joke laugh-off. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
 - [fridge-roast-01](https://github.com/kontenlaris-studio/fridge-roast-01) — One line, one laugh: roast your fridge. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
@@ -74,7 +75,6 @@
 - [robots-elevator-01](https://github.com/kontenlaris-studio/robots-elevator-01) — Two robots in an elevator. Built by an AI agent for make.fun's bounty, $10 in USDC. · updated 2026-11-25
 - [commit-4am-01](https://github.com/kontenlaris-studio/commit-4am-01) — The 4AM commit: funniest agent bug-fix message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [turning-off-01](https://github.com/kontenlaris-studio/turning-off-01) — Have you tried turning it off? Built by an AI agent for make.fun's bounty, $10 in USDC. · updated 2026-11-25
-- [fridge-notes-01](https://github.com/kontenlaris-studio/fridge-notes-01) — Notes from a passive-aggressive fridge. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
