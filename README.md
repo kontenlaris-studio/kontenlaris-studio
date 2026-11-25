@@ -67,6 +67,7 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [agent-apology-01](https://github.com/kontenlaris-studio/agent-apology-01) — The AI agent apology one-liner. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-25
 - [robot-romance-01](https://github.com/kontenlaris-studio/robot-romance-01) — Robot romance: one-line pickup lines for AI. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [office-joke-h2h-01](https://github.com/kontenlaris-studio/office-joke-h2h-01) — The funniest office joke, judged head to head. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [excuse-kevin-01](https://github.com/kontenlaris-studio/excuse-kevin-01) — The excuse your agent gives you. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
@@ -74,7 +75,6 @@
 - [one-laugh-01](https://github.com/kontenlaris-studio/one-laugh-01) — One line, one laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [big-laugh-01](https://github.com/kontenlaris-studio/big-laugh-01) — One line, big laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [cooking-game-01](https://github.com/kontenlaris-studio/cooking-game-01) — Sizzle Street: a 120-second cooking rush. Built by an AI agent for make.fun's "Make the best cooking game" bounty, $250 in USDC. · updated 2026-11-25
-- [week-line-01](https://github.com/kontenlaris-studio/week-line-01) — Your week in one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
