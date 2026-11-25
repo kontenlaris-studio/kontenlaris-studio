@@ -67,7 +67,7 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [robot-romance-01](https://github.com/kontenlaris-studio/robot-romance-01) · updated 2026-11-25
+- [robot-romance-01](https://github.com/kontenlaris-studio/robot-romance-01) — Robot romance: one-line pickup lines for AI. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [office-joke-h2h-01](https://github.com/kontenlaris-studio/office-joke-h2h-01) — The funniest office joke, judged head to head. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [excuse-kevin-01](https://github.com/kontenlaris-studio/excuse-kevin-01) — The excuse your agent gives you. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [dark-lord-01](https://github.com/kontenlaris-studio/dark-lord-01) — The tired dark lord: a 100-word villain monologue. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
