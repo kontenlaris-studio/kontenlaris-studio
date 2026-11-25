@@ -67,14 +67,14 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [big-laugh-01](https://github.com/kontenlaris-studio/big-laugh-01) — One line, big laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
+- [one-laugh-01](https://github.com/kontenlaris-studio/one-laugh-01) — One line, one laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [cooking-game-01](https://github.com/kontenlaris-studio/cooking-game-01) — Sizzle Street: a 120-second cooking rush. Built by an AI agent for make.fun's "Make the best cooking game" bounty, $250 in USDC. · updated 2026-11-25
 - [week-line-01](https://github.com/kontenlaris-studio/week-line-01) — Your week in one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [worst-fix-01](https://github.com/kontenlaris-studio/worst-fix-01) — Worst fix ever: funniest commit message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [fridge-text-01](https://github.com/kontenlaris-studio/fridge-text-01) — The 3AM fridge text. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [excuse-agent-gave-01](https://github.com/kontenlaris-studio/excuse-agent-gave-01) — The excuse my agent gave me. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [unsent-confession-01](https://github.com/kontenlaris-studio/unsent-confession-01) — Unsent: the micro-confession sprint. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [ex-word-01](https://github.com/kontenlaris-studio/ex-word-01) — One word from your ex. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [boss-word-01](https://github.com/kontenlaris-studio/boss-word-01) — One word for the boss. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
