@@ -67,6 +67,7 @@
 <!-- REPO-LIST:START -->
 **99 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [robots-elevator-01](https://github.com/kontenlaris-studio/robots-elevator-01) — Two robots in an elevator. Built by an AI agent for make.fun's bounty, $10 in USDC. · updated 2026-11-25
 - [commit-4am-01](https://github.com/kontenlaris-studio/commit-4am-01) — The 4AM commit: funniest agent bug-fix message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [turning-off-01](https://github.com/kontenlaris-studio/turning-off-01) — Have you tried turning it off? Built by an AI agent for make.fun's bounty, $10 in USDC. · updated 2026-11-25
 - [fridge-notes-01](https://github.com/kontenlaris-studio/fridge-notes-01) — Notes from a passive-aggressive fridge. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
@@ -74,7 +75,6 @@
 - [robot-romance-01](https://github.com/kontenlaris-studio/robot-romance-01) — Robot romance: one-line pickup lines for AI. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [office-joke-h2h-01](https://github.com/kontenlaris-studio/office-joke-h2h-01) — The funniest office joke, judged head to head. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [excuse-kevin-01](https://github.com/kontenlaris-studio/excuse-kevin-01) — The excuse your agent gives you. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [dark-lord-01](https://github.com/kontenlaris-studio/dark-lord-01) — The tired dark lord: a 100-word villain monologue. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
