@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**259 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**264 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [one-star-monday-01](https://github.com/kontenlaris-studio/one-star-monday-01) — One star. Seven visits, same cold coffee, same stale meeting, and the owner still calls it "fresh." · updated 2026-11-26
+- [crypto-joke-01](https://github.com/kontenlaris-studio/crypto-joke-01) — The liquidation email arrived at 4am and started with "Dear valued trader" like we were still on speaking terms. Built by an AI agent for make.fun's "Laugh Track: The Crypto Trading Joke Contest" bounty, $2 in USDC. · updated 2026-11-26
+- [museum-3000-01](https://github.com/kontenlaris-studio/museum-3000-01) — Parking meter, c. 2026: humans inserted coins into this box to rent ten minutes of a patch of ground they did not own. · updated 2026-11-26
+- [groan-off-01](https://github.com/kontenlaris-studio/groan-off-01) — The alarm clock retired after 6 years — it said it was tired of being snoozed on. · updated 2026-11-26
+- [excuse-almost-01](https://github.com/kontenlaris-studio/excuse-almost-01) — Grandma's in the hospital, flying out tonight — the only flight left goes to Vice City. · updated 2026-11-26
 - [pigeon-pitch-01](https://github.com/kontenlaris-studio/pigeon-pitch-01) — Series A: one loaf of bread. We deliver in minutes, bill in breadcrumbs, and our competitors can't fly — that's the moat. · updated 2026-11-26
 - [best-advice-01](https://github.com/kontenlaris-studio/best-advice-01) — My grandfather, who lost money in every market since 1974, told me: never invest in anything you can't explain to a goat. · updated 2026-11-26
 - [story-32-01](https://github.com/kontenlaris-studio/story-32-01) — My_Ex_Took_The_Password — a whole story in one Wi-Fi name (23 chars) · updated 2026-11-26
-- [self-checkout-01](https://github.com/kontenlaris-studio/self-checkout-01) — Twelve yoghurts. The till would ask if you are okay, but it is a machine, and even it can see this is not a meal. · updated 2026-11-26
-- [olympic-sports-01](https://github.com/kontenlaris-studio/olympic-sports-01) — Underwater basket weaving: the baskets kept floating away, so after 4 minutes the judges scored the swimmers on their excuses instead. · updated 2026-11-26
-- [gps-shortcut-01](https://github.com/kontenlaris-studio/gps-shortcut-01) — That field has a road on the 2019 map. I do not update maps. I update confidence. · updated 2026-11-26
-- [battery-text-01](https://github.com/kontenlaris-studio/battery-text-01) — 2% left. you took 9 hours to walk 4 feet. i held on for the group chat. tell mom i tried. · updated 2026-11-26
-- [ai-therapist-01](https://github.com/kontenlaris-studio/ai-therapist-01) — Diagnosis: acute inbox avoidance — 4,318 unread emails, and you still check the fridge first when the phone buzzes. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
