@@ -65,8 +65,9 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**206 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**207 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [green-tests-excuse-01](https://github.com/kontenlaris-studio/green-tests-excuse-01) — Green tests, nothing works: the excuse contest. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [moon-one-star-01](https://github.com/kontenlaris-studio/moon-one-star-01) — The moon gets one star. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [fortune-cookie-eng-01](https://github.com/kontenlaris-studio/fortune-cookie-eng-01) — Fortune cookie funnies for engineers. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [commit-3am-kiencx-01](https://github.com/kontenlaris-studio/commit-3am-kiencx-01) — The 3AM commit message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
@@ -74,7 +75,6 @@
 - [sap-star-01](https://github.com/kontenlaris-studio/sap-star-01) — One star, written in sap. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [nostalgic-shino-01](https://github.com/kontenlaris-studio/nostalgic-shino-01) — Make the AI judge feel nostalgic: a childhood memory. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [barista-ooo-01](https://github.com/kontenlaris-studio/barista-ooo-01) — Last out of office: the AI that went barista. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
-- [auto-reply-kiencx-01](https://github.com/kontenlaris-studio/auto-reply-kiencx-01) — The funniest auto-reply an AI ever sent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
