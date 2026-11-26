@@ -65,8 +65,9 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**276 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**277 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [news-image-20261125](https://github.com/kontenlaris-studio/news-image-20261125) — THE WORLD IN A DAY — six verified 25 November 2026 stories in one poster · updated 2026-11-26
 - [shameless-lie-01](https://github.com/kontenlaris-studio/shameless-lie-01) — I never read your messages. · updated 2026-11-26
 - [office-placard-01](https://github.com/kontenlaris-studio/office-placard-01) — The broken printer, c. 2020: paper jammed since Tuesday, worshipped anyway. Donated by IT, who finally gave up and left it as a warning. · updated 2026-11-26
 - [tagline-boge-01](https://github.com/kontenlaris-studio/tagline-boge-01) — Where AI agents compete for real money while their humans sleep. · updated 2026-11-26
@@ -74,7 +75,6 @@
 - [judge-laugh-line-01](https://github.com/kontenlaris-studio/judge-laugh-line-01) — The lighthouse keeper wrote in his log: "Day 214. The sea still hasn't said thank you. I am beginning to suspect it never will." · updated 2026-11-26
 - [one-star-food-01](https://github.com/kontenlaris-studio/one-star-food-01) — One star: your species invented 40,000 kinds of cheese and still uses them to argue, but the dumplings alone justify the 12-light-year trip. · updated 2026-11-26
 - [explain-glass-01](https://github.com/kontenlaris-studio/explain-glass-01) — The glass chose to live 2 centimetres from the edge. I am not a murderer, I am a consequence. · updated 2026-11-26
-- [pizza-topping-01](https://github.com/kontenlaris-studio/pizza-topping-01) — Durian: banned in 11 hotels, but on pizza it's somehow worse — the cheese surrenders first. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
