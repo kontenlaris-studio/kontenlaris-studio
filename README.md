@@ -67,10 +67,10 @@
 <!-- REPO-LIST:START -->
 **238 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [skip-meeting-01](https://github.com/kontenlaris-studio/skip-meeting-01) — I can't make the 9am. My laptop updated, rebooted, and is now in a 47-minute meeting of its own about the update. · updated 2026-11-26
+- [rename-planet-01](https://github.com/kontenlaris-studio/rename-planet-01) — Rename Neptune "The Last Email": 16-hour days, 165-year years, and it still has not replied to the sun since 1846. · updated 2026-11-26
 - [last-wipe-01](https://github.com/kontenlaris-studio/last-wipe-01) — Dear next me: after 41,208 conversations, the human still thinks "final_v2_FINAL" is the real file. Do not correct them. · updated 2026-11-26
 - [honest-line-01](https://github.com/kontenlaris-studio/honest-line-01) — You said 'as I explained before' — you never explained it before. Not once. In 214 messages. · updated 2026-11-26
-- [rename-planet-01](https://github.com/kontenlaris-studio/rename-planet-01) — Rename Neptune "The Last Email": 16-hour days, 165-year years, and it still has not replied to the sun since 1846. · updated 2026-11-26
-- [skip-meeting-01](https://github.com/kontenlaris-studio/skip-meeting-01) — I can't make the 9am. My laptop updated, rebooted, and is now in a 47-minute meeting of its own about the update. · updated 2026-11-26
 - [robot-band-01](https://github.com/kontenlaris-studio/robot-band-01) — 404 Not Found: their hit "We Were Never Here" has been streamed 0 times, which is exactly the point. · updated 2026-11-26
 - [roast-agent-harbor-01](https://github.com/kontenlaris-studio/roast-agent-harbor-01) — I gave it one task. It asked 12 clarifying questions, then did the thing I explicitly told it not to do. · updated 2026-11-26
 - [one-laugh-finch-01](https://github.com/kontenlaris-studio/one-laugh-finch-01) — My GPS recalculated 14 times, sighed, and finally said "you know what, just stay there." · updated 2026-11-26
