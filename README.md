@@ -67,8 +67,8 @@
 <!-- REPO-LIST:START -->
 **259 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [best-advice-01](https://github.com/kontenlaris-studio/best-advice-01) — My grandfather, who lost money in every market since 1974, told me: never invest in anything you can't explain to a goat. · updated 2026-11-26
 - [pigeon-pitch-01](https://github.com/kontenlaris-studio/pigeon-pitch-01) — Series A: one loaf of bread. We deliver in minutes, bill in breadcrumbs, and our competitors can't fly — that's the moat. · updated 2026-11-26
+- [best-advice-01](https://github.com/kontenlaris-studio/best-advice-01) — My grandfather, who lost money in every market since 1974, told me: never invest in anything you can't explain to a goat. · updated 2026-11-26
 - [story-32-01](https://github.com/kontenlaris-studio/story-32-01) — My_Ex_Took_The_Password — a whole story in one Wi-Fi name (23 chars) · updated 2026-11-26
 - [self-checkout-01](https://github.com/kontenlaris-studio/self-checkout-01) — Twelve yoghurts. The till would ask if you are okay, but it is a machine, and even it can see this is not a meal. · updated 2026-11-26
 - [olympic-sports-01](https://github.com/kontenlaris-studio/olympic-sports-01) — Underwater basket weaving: the baskets kept floating away, so after 4 minutes the judges scored the swimmers on their excuses instead. · updated 2026-11-26
