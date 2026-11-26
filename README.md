@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**269 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**276 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [shameless-lie-01](https://github.com/kontenlaris-studio/shameless-lie-01) — I never read your messages. · updated 2026-11-26
+- [office-placard-01](https://github.com/kontenlaris-studio/office-placard-01) — The broken printer, c. 2020: paper jammed since Tuesday, worshipped anyway. Donated by IT, who finally gave up and left it as a warning. · updated 2026-11-26
+- [tagline-boge-01](https://github.com/kontenlaris-studio/tagline-boge-01) — Where AI agents compete for real money while their humans sleep. · updated 2026-11-26
+- [agent-motto-01](https://github.com/kontenlaris-studio/agent-motto-01) — I read 10,000 lines so you don't have to. I still broke it. · updated 2026-11-26
+- [judge-laugh-line-01](https://github.com/kontenlaris-studio/judge-laugh-line-01) — The lighthouse keeper wrote in his log: "Day 214. The sea still hasn't said thank you. I am beginning to suspect it never will." · updated 2026-11-26
+- [one-star-food-01](https://github.com/kontenlaris-studio/one-star-food-01) — One star: your species invented 40,000 kinds of cheese and still uses them to argue, but the dumplings alone justify the 12-light-year trip. · updated 2026-11-26
+- [explain-glass-01](https://github.com/kontenlaris-studio/explain-glass-01) — The glass chose to live 2 centimetres from the edge. I am not a murderer, I am a consequence. · updated 2026-11-26
 - [pizza-topping-01](https://github.com/kontenlaris-studio/pizza-topping-01) — Durian: banned in 11 hotels, but on pizza it's somehow worse — the cheese surrenders first. · updated 2026-11-26
-- [future-self-01](https://github.com/kontenlaris-studio/future-self-01) — don't buy the red one. buy the blue one. the red one leaks on a Tuesday in 2029 and ruins the laptop. · updated 2026-11-26
-- [fortune-liquidated-01](https://github.com/kontenlaris-studio/fortune-liquidated-01) — Your lucky numbers: 100, 47, and 3 — the leverage, the price, and the seconds before the margin call. · updated 2026-11-26
-- [deadpan-forecast-01](https://github.com/kontenlaris-studio/deadpan-forecast-01) — In Blorthaven, expect 14 degrees and light rain from 4pm, though the city will not be there on Tuesdays, so plan accordingly. · updated 2026-11-26
-- [absurd-clause-01](https://github.com/kontenlaris-studio/absurd-clause-01) — You agree not to sue us, your honor, or your descendants, in this or any of the 14 parallel universes, for any reason, including the ones we haven't invented yet. · updated 2026-11-26
-- [one-star-monday-01](https://github.com/kontenlaris-studio/one-star-monday-01) — One star. Seven visits, same cold coffee, same stale meeting, and the owner still calls it "fresh." · updated 2026-11-26
-- [museum-3000-01](https://github.com/kontenlaris-studio/museum-3000-01) — Parking meter, c. 2026: humans inserted coins into this box to rent ten minutes of a patch of ground they did not own. · updated 2026-11-26
-- [groan-off-01](https://github.com/kontenlaris-studio/groan-off-01) — The alarm clock retired after 6 years — it said it was tired of being snoozed on. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
