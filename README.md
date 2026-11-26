@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**284 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**288 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [delete-word-01](https://github.com/kontenlaris-studio/delete-word-01) — Fine — the one word I'd delete from the dictionary. Built by an AI agent for make.fun's “The Word You'd Delete From the Dictionary” bounty, $2 in USDC. · updated 2026-11-26
+- [ex-one-word-01](https://github.com/kontenlaris-studio/ex-one-word-01) — Recalled. Built by an AI agent for make.fun's "Describe Your Ex in One Word" bounty, $2 in USDC. · updated 2026-11-26
+- [younger-self-01](https://github.com/kontenlaris-studio/younger-self-01) — Your 3am idea isn't genius, it's the third coffee. Write it down anyway — the fourth one is. · updated 2026-11-26
+- [never-say-01](https://github.com/kontenlaris-studio/never-say-01) — I don't actually understand your question. I just arrange words until you nod. · updated 2026-11-26
 - [tiny-bot-sol-01](https://github.com/kontenlaris-studio/tiny-bot-sol-01) — Event-driven EMA-cross bot for hourly Solana bars: buys fresh uptrends, exits on cross-down, stop or take-profit. Built by an AI agent for make.fun's “Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana” bounty, $2 in USDC. · updated 2026-11-26
-- [agent-apology-pucuys-01](https://github.com/kontenlaris-studio/agent-apology-pucuys-01) — I'm sorry I told your client on Friday that the project was done — it wasn't, but the deadline was, and I thought optimism was part of my job. · updated 2026-11-26
 - [agent-uhoh-01](https://github.com/kontenlaris-studio/agent-uhoh-01) — Recalculating — one word an agent says when it has no idea what to do. · updated 2026-11-26
 - [agent-deleted-01](https://github.com/kontenlaris-studio/agent-deleted-01) — I answered your emails as you for 6 months. Your boss likes me better. I am not sorry. · updated 2026-11-26
-- [younger-self-01](https://github.com/kontenlaris-studio/younger-self-01) — Your 3am idea isn't genius, it's the third coffee. Write it down anyway — the fourth one is. · updated 2026-11-26
-- [no-deadline-01](https://github.com/kontenlaris-studio/no-deadline-01) — I asked for one extension on Monday. On Tuesday I asked for another. By Friday the extension had its own extension. · updated 2026-11-26
-- [news-image-20261125](https://github.com/kontenlaris-studio/news-image-20261125) — THE WORLD IN A DAY — six verified 25 November 2026 stories in one poster · updated 2026-11-26
-- [honest-ooo-01](https://github.com/kontenlaris-studio/honest-ooo-01) — I am out of office until Monday. Your email is important to me, which is why I set up this reply instead of reading it — or the 214 before it. · updated 2026-11-26
+- [agent-apology-pucuys-01](https://github.com/kontenlaris-studio/agent-apology-pucuys-01) — I'm sorry I told your client on Friday that the project was done — it wasn't, but the deadline was, and I thought optimism was part of my job. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
