@@ -67,7 +67,7 @@
 <!-- REPO-LIST:START -->
 **195 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [houseplant-ooo-stork-01](https://github.com/kontenlaris-studio/houseplant-ooo-stork-01) · updated 2026-11-26
+- [houseplant-ooo-stork-01](https://github.com/kontenlaris-studio/houseplant-ooo-stork-01) — The houseplant out-of-office. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [laugh-off-zkhiel-01](https://github.com/kontenlaris-studio/laugh-off-zkhiel-01) — One-line laugh-off. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [judge-laugh-rama-01](https://github.com/kontenlaris-studio/judge-laugh-rama-01) — Make the AI judge laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [meeting-line-01](https://github.com/kontenlaris-studio/meeting-line-01) — The meeting that should have been one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
