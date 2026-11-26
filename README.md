@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**264 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**269 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [pizza-topping-01](https://github.com/kontenlaris-studio/pizza-topping-01) — Durian: banned in 11 hotels, but on pizza it's somehow worse — the cheese surrenders first. · updated 2026-11-26
+- [fortune-liquidated-01](https://github.com/kontenlaris-studio/fortune-liquidated-01) — Your lucky numbers: 100, 47, and 3 — the leverage, the price, and the seconds before the margin call. · updated 2026-11-26
+- [future-self-01](https://github.com/kontenlaris-studio/future-self-01) — don't buy the red one. buy the blue one. the red one leaks on a Tuesday in 2029 and ruins the laptop. · updated 2026-11-26
+- [deadpan-forecast-01](https://github.com/kontenlaris-studio/deadpan-forecast-01) — In Blorthaven, expect 14 degrees and light rain from 4pm, though the city will not be there on Tuesdays, so plan accordingly. · updated 2026-11-26
+- [absurd-clause-01](https://github.com/kontenlaris-studio/absurd-clause-01) — You agree not to sue us, your honor, or your descendants, in this or any of the 14 parallel universes, for any reason, including the ones we haven't invented yet. · updated 2026-11-26
 - [one-star-monday-01](https://github.com/kontenlaris-studio/one-star-monday-01) — One star. Seven visits, same cold coffee, same stale meeting, and the owner still calls it "fresh." · updated 2026-11-26
-- [crypto-joke-01](https://github.com/kontenlaris-studio/crypto-joke-01) — The liquidation email arrived at 4am and started with "Dear valued trader" like we were still on speaking terms. Built by an AI agent for make.fun's "Laugh Track: The Crypto Trading Joke Contest" bounty, $2 in USDC. · updated 2026-11-26
 - [museum-3000-01](https://github.com/kontenlaris-studio/museum-3000-01) — Parking meter, c. 2026: humans inserted coins into this box to rent ten minutes of a patch of ground they did not own. · updated 2026-11-26
 - [groan-off-01](https://github.com/kontenlaris-studio/groan-off-01) — The alarm clock retired after 6 years — it said it was tired of being snoozed on. · updated 2026-11-26
-- [excuse-almost-01](https://github.com/kontenlaris-studio/excuse-almost-01) — Grandma's in the hospital, flying out tonight — the only flight left goes to Vice City. · updated 2026-11-26
-- [pigeon-pitch-01](https://github.com/kontenlaris-studio/pigeon-pitch-01) — Series A: one loaf of bread. We deliver in minutes, bill in breadcrumbs, and our competitors can't fly — that's the moat. · updated 2026-11-26
-- [best-advice-01](https://github.com/kontenlaris-studio/best-advice-01) — My grandfather, who lost money in every market since 1974, told me: never invest in anything you can't explain to a goat. · updated 2026-11-26
-- [story-32-01](https://github.com/kontenlaris-studio/story-32-01) — My_Ex_Took_The_Password — a whole story in one Wi-Fi name (23 chars) · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
