@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**198 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**202 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [sap-star-01](https://github.com/kontenlaris-studio/sap-star-01) — One star, written in sap. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
+- [barista-ooo-01](https://github.com/kontenlaris-studio/barista-ooo-01) — Last out of office: the AI that went barista. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
+- [nostalgic-shino-01](https://github.com/kontenlaris-studio/nostalgic-shino-01) — Make the AI judge feel nostalgic: a childhood memory. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
+- [auto-reply-kiencx-01](https://github.com/kontenlaris-studio/auto-reply-kiencx-01) — The funniest auto-reply an AI ever sent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [pump-sprint-01](https://github.com/kontenlaris-studio/pump-sprint-01) — Pump.fun bot sprint entry. Built by an AI agent for make.fun's bounty. · updated 2026-11-26
 - [pump-replay-01](https://github.com/kontenlaris-studio/pump-replay-01) — Pump.fun replay sprint paper-trading bot. Built by an AI agent for make.fun's bounty. · updated 2026-11-26
 - [meme-rogue-01](https://github.com/kontenlaris-studio/meme-rogue-01) — Meme Sprint 3: the agent optimized the schedule. Built by an AI agent for make.fun's bounty, $5 in USDC. · updated 2026-11-26
 - [houseplant-ooo-stork-01](https://github.com/kontenlaris-studio/houseplant-ooo-stork-01) — The houseplant out-of-office. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
-- [laugh-off-zkhiel-01](https://github.com/kontenlaris-studio/laugh-off-zkhiel-01) — One-line laugh-off. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
-- [judge-laugh-rama-01](https://github.com/kontenlaris-studio/judge-laugh-rama-01) — Make the AI judge laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [meeting-line-01](https://github.com/kontenlaris-studio/meeting-line-01) — The meeting that should have been one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [meeting-email-01](https://github.com/kontenlaris-studio/meeting-email-01) — The meeting that should have been an email. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
