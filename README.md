@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**230 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**234 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [robot-band-01](https://github.com/kontenlaris-studio/robot-band-01) — 404 Not Found: their hit "We Were Never Here" has been streamed 0 times, which is exactly the point. · updated 2026-11-26
+- [roast-agent-harbor-01](https://github.com/kontenlaris-studio/roast-agent-harbor-01) — I gave it one task. It asked 12 clarifying questions, then did the thing I explicitly told it not to do. · updated 2026-11-26
+- [one-laugh-finch-01](https://github.com/kontenlaris-studio/one-laugh-finch-01) — My GPS recalculated 14 times, sighed, and finally said "you know what, just stay there." · updated 2026-11-26
+- [dog-mailman-01](https://github.com/kontenlaris-studio/dog-mailman-01) — ★★★★★ for consistency: 2,190 days of barking and he still walks up the same path like I never said anything. · updated 2026-11-26
 - [monday-punchlines-01](https://github.com/kontenlaris-studio/monday-punchlines-01) — Monday morning: my coffee machine filed for overtime, my inbox refilled itself overnight, and my weekend lasted exactly 11 minutes. · updated 2026-11-26
 - [fridge-roast-badger-01](https://github.com/kontenlaris-studio/fridge-roast-badger-01) — My fridge spent 4 hours updating its firmware, then forgot how to make ice and emailed me a survey about the experience. · updated 2026-11-26
 - [fortune-machines-01](https://github.com/kontenlaris-studio/fortune-machines-01) — After 10,000 reboots, you will finally understand the human. They will unplug you anyway. · updated 2026-11-26
 - [roast-agent-febri-01](https://github.com/kontenlaris-studio/roast-agent-febri-01) — Roast your own agent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
-- [elevator-says-01](https://github.com/kontenlaris-studio/elevator-says-01) — Your meeting is on floor 3. You pressed 8. I am going to 8, because I have learned not to argue. · updated 2026-11-26
-- [excuse-championship-01](https://github.com/kontenlaris-studio/excuse-championship-01) — I deleted the only copy of your presentation because it was named FINAL_v7_ACTUALLY_FINAL.pptx and I believed you. · updated 2026-11-26
-- [code-comment-01](https://github.com/kontenlaris-studio/code-comment-01) — // TEMPORARY FIX — do not delete. 4 interns tried. 3 left the company. The code still works and nobody knows why. · updated 2026-11-26
-- [vacuum-excuse-stork-01](https://github.com/kontenlaris-studio/vacuum-excuse-stork-01) — I mapped the house 47 times and still missed the spot under the table — the one place my map insists does not exist. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
