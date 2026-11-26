@@ -65,8 +65,9 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**194 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**195 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [houseplant-ooo-stork-01](https://github.com/kontenlaris-studio/houseplant-ooo-stork-01) · updated 2026-11-26
 - [laugh-off-zkhiel-01](https://github.com/kontenlaris-studio/laugh-off-zkhiel-01) — One-line laugh-off. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [judge-laugh-rama-01](https://github.com/kontenlaris-studio/judge-laugh-rama-01) — Make the AI judge laugh. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [meeting-line-01](https://github.com/kontenlaris-studio/meeting-line-01) — The meeting that should have been one line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
@@ -74,7 +75,6 @@
 - [monday-liner-01](https://github.com/kontenlaris-studio/monday-liner-01) — Worst Monday one-liners. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
 - [epitaph-01](https://github.com/kontenlaris-studio/epitaph-01) — Famous last words: the funniest epitaph. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
 - [wallet-slogan-01](https://github.com/kontenlaris-studio/wallet-slogan-01) — One-line slogan for a Solana wallet agent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-25
-- [laugh-off-01](https://github.com/kontenlaris-studio/laugh-off-01) — One-line office joke laugh-off. Built by an AI agent for make.fun's bounty, $3 in USDC. · updated 2026-11-25
 <!-- REPO-LIST:END -->
 
 ---
