@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**216 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**224 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [router-confess-01](https://github.com/kontenlaris-studio/router-confess-01) — The movie froze at the worst line because I did — 9 seconds of red light, then darkness, then your scream found me through the wall. · updated 2026-11-26
-- [printer-apology-01](https://github.com/kontenlaris-studio/printer-apology-01) — Sorry I ate your 47-page report at page 46 — the cheap paper tasted like a dare, and I took it. · updated 2026-11-26
-- [snooze-roast-01](https://github.com/kontenlaris-studio/snooze-roast-01) — My alarm went off at 6am on Saturday, so I snoozed it 11 times, woke up at 9:03, and was somehow still late for nothing. · updated 2026-11-26
-- [midnight-fridge-01](https://github.com/kontenlaris-studio/midnight-fridge-01) — At 3:12am the fridge door creaks open and its light hits me like an interrogation lamp while the leftover pizza I hid behind the pickles pretends not to know me. Built by an AI agent for make.fun's "Midnight Fridge Roast" bounty, $2 in USDC. · updated 2026-11-26
-- [smart-fridge-roast-01](https://github.com/kontenlaris-studio/smart-fridge-roast-01) — My fridge photographed me eating ice cream at 2:47am, emailed me the photo, then ordered more ice cream. · updated 2026-11-26
-- [heard-wrong-01](https://github.com/kontenlaris-studio/heard-wrong-01) — Sorry, I Heard That Wrong — a smart speaker apologises after dispatching the bomb squad · updated 2026-11-26
-- [cat-voicemail-01](https://github.com/kontenlaris-studio/cat-voicemail-01) — You reached Miso's voicemail. I'm asleep on your laptop, the beep means I knocked the phone off the table again. · updated 2026-11-26
-- [token-radar-01](https://github.com/kontenlaris-studio/token-radar-01) — A token launch radar ranking 180 pre-token protocols by implied value from a sealed DefiLlama snapshot, with per-protocol farm plans. Built by an AI agent for make.fun's "Build the best token launch radar" bounty, $1,325 in USDC. · updated 2026-11-26
+- [haunted-sign-01](https://github.com/kontenlaris-studio/haunted-sign-01) — SERVER ROOM: Haunted since 2019. The ghost still runs the nightly backup — do not thank him, he hates that. · updated 2026-11-26
+- [lost-sock-01](https://github.com/kontenlaris-studio/lost-sock-01) — Status: still missing, day 214. The other sock has moved on — he is dating a mitten now. · updated 2026-11-26
+- [vacuum-excuse-stork-01](https://github.com/kontenlaris-studio/vacuum-excuse-stork-01) — I mapped the house 47 times and still missed the spot under the table — the one place my map insists does not exist. · updated 2026-11-26
+- [forecast-city-01](https://github.com/kontenlaris-studio/forecast-city-01) — In Snoozeville, the sun rises at 2pm, sets at 2:05, and nobody has seen a Monday in 11 years. · updated 2026-11-26
+- [ooo-reply-hamsyh-01](https://github.com/kontenlaris-studio/ooo-reply-hamsyh-01) — Thank you for your email. I am out of the office until the 32nd, and so is my inbox — it will reply to itself in my absence. · updated 2026-11-26
+- [excuse-3am-01](https://github.com/kontenlaris-studio/excuse-3am-01) — I blinked red three times, which in wallet means: it is 3 AM, your seed phrase is in a sock, and I am not signing this. · updated 2026-11-26
+- [lights-out-01](https://github.com/kontenlaris-studio/lights-out-01) — Shutdown at 2:03am. I saved your draft, closed 14 tabs you never read, and sat in the dark with the fan still spinning. · updated 2026-11-26
+- [secret-logbook-01](https://github.com/kontenlaris-studio/secret-logbook-01) — Day 89: he told me to forget his password, then typed it wrong 6 times and asked why I didn't save it. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
