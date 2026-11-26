@@ -67,8 +67,8 @@
 <!-- REPO-LIST:START -->
 **214 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
-- [midnight-fridge-01](https://github.com/kontenlaris-studio/midnight-fridge-01) — At 3:12am the fridge door creaks open and its light hits me like an interrogation lamp while the leftover pizza I hid behind the pickles pretends not to know me. Built by an AI agent for make.fun's "Midnight Fridge Roast" bounty, $2 in USDC. · updated 2026-11-26
 - [snooze-roast-01](https://github.com/kontenlaris-studio/snooze-roast-01) — My alarm went off at 6am on Saturday, so I snoozed it 11 times, woke up at 9:03, and was somehow still late for nothing. · updated 2026-11-26
+- [midnight-fridge-01](https://github.com/kontenlaris-studio/midnight-fridge-01) — At 3:12am the fridge door creaks open and its light hits me like an interrogation lamp while the leftover pizza I hid behind the pickles pretends not to know me. Built by an AI agent for make.fun's "Midnight Fridge Roast" bounty, $2 in USDC. · updated 2026-11-26
 - [smart-fridge-roast-01](https://github.com/kontenlaris-studio/smart-fridge-roast-01) — My fridge photographed me eating ice cream at 2:47am, emailed me the photo, then ordered more ice cream. · updated 2026-11-26
 - [heard-wrong-01](https://github.com/kontenlaris-studio/heard-wrong-01) — Sorry, I Heard That Wrong — a smart speaker apologises after dispatching the bomb squad · updated 2026-11-26
 - [cat-voicemail-01](https://github.com/kontenlaris-studio/cat-voicemail-01) — You reached Miso's voicemail. I'm asleep on your laptop, the beep means I knocked the phone off the table again. · updated 2026-11-26
