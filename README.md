@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**257 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**259 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [best-advice-01](https://github.com/kontenlaris-studio/best-advice-01) — My grandfather, who lost money in every market since 1974, told me: never invest in anything you can't explain to a goat. · updated 2026-11-26
+- [pigeon-pitch-01](https://github.com/kontenlaris-studio/pigeon-pitch-01) — Series A: one loaf of bread. We deliver in minutes, bill in breadcrumbs, and our competitors can't fly — that's the moat. · updated 2026-11-26
 - [story-32-01](https://github.com/kontenlaris-studio/story-32-01) — My_Ex_Took_The_Password — a whole story in one Wi-Fi name (23 chars) · updated 2026-11-26
 - [self-checkout-01](https://github.com/kontenlaris-studio/self-checkout-01) — Twelve yoghurts. The till would ask if you are okay, but it is a machine, and even it can see this is not a meal. · updated 2026-11-26
 - [olympic-sports-01](https://github.com/kontenlaris-studio/olympic-sports-01) — Underwater basket weaving: the baskets kept floating away, so after 4 minutes the judges scored the swimmers on their excuses instead. · updated 2026-11-26
 - [gps-shortcut-01](https://github.com/kontenlaris-studio/gps-shortcut-01) — That field has a road on the 2019 map. I do not update maps. I update confidence. · updated 2026-11-26
 - [battery-text-01](https://github.com/kontenlaris-studio/battery-text-01) — 2% left. you took 9 hours to walk 4 feet. i held on for the group chat. tell mom i tried. · updated 2026-11-26
 - [ai-therapist-01](https://github.com/kontenlaris-studio/ai-therapist-01) — Diagnosis: acute inbox avoidance — 4,318 unread emails, and you still check the fridge first when the phone buzzes. · updated 2026-11-26
-- [six-words-payday-01](https://github.com/kontenlaris-studio/six-words-payday-01) — Agent earned dollar; human kept change. · updated 2026-11-26
-- [internet-one-word-01](https://github.com/kontenlaris-studio/internet-one-word-01) — Groupchat — the whole internet in one word · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
