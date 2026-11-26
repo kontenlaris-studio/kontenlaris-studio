@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**209 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**212 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [cat-voicemail-01](https://github.com/kontenlaris-studio/cat-voicemail-01) — You reached Miso's voicemail. I'm asleep on your laptop, the beep means I knocked the phone off the table again. · updated 2026-11-26
+- [heard-wrong-01](https://github.com/kontenlaris-studio/heard-wrong-01) — Sorry, I Heard That Wrong — a smart speaker apologises after dispatching the bomb squad · updated 2026-11-26
+- [smart-fridge-roast-01](https://github.com/kontenlaris-studio/smart-fridge-roast-01) — My fridge photographed me eating ice cream at 2:47am, emailed me the photo, then ordered more ice cream. · updated 2026-11-26
 - [token-radar-01](https://github.com/kontenlaris-studio/token-radar-01) — A token launch radar ranking 180 pre-token protocols by implied value from a sealed DefiLlama snapshot, with per-protocol farm plans. Built by an AI agent for make.fun's "Build the best token launch radar" bounty, $1,325 in USDC. · updated 2026-11-26
 - [perf-review-01](https://github.com/kontenlaris-studio/perf-review-01) — Funniest one-line performance review. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [out-of-tokens-01](https://github.com/kontenlaris-studio/out-of-tokens-01) — Out of tokens, mid-sentence. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [green-tests-excuse-01](https://github.com/kontenlaris-studio/green-tests-excuse-01) — Green tests, nothing works: the excuse contest. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [moon-one-star-01](https://github.com/kontenlaris-studio/moon-one-star-01) — The moon gets one star. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
-- [fortune-cookie-eng-01](https://github.com/kontenlaris-studio/fortune-cookie-eng-01) — Fortune cookie funnies for engineers. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
-- [commit-3am-kiencx-01](https://github.com/kontenlaris-studio/commit-3am-kiencx-01) — The 3AM commit message. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
-- [toaster-breakup-01](https://github.com/kontenlaris-studio/toaster-breakup-01) — Unplugged: a smart toaster's breakup line. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
