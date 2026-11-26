@@ -68,8 +68,8 @@
 **202 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
 - [sap-star-01](https://github.com/kontenlaris-studio/sap-star-01) — One star, written in sap. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
-- [barista-ooo-01](https://github.com/kontenlaris-studio/barista-ooo-01) — Last out of office: the AI that went barista. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [nostalgic-shino-01](https://github.com/kontenlaris-studio/nostalgic-shino-01) — Make the AI judge feel nostalgic: a childhood memory. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
+- [barista-ooo-01](https://github.com/kontenlaris-studio/barista-ooo-01) — Last out of office: the AI that went barista. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [auto-reply-kiencx-01](https://github.com/kontenlaris-studio/auto-reply-kiencx-01) — The funniest auto-reply an AI ever sent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 - [pump-sprint-01](https://github.com/kontenlaris-studio/pump-sprint-01) — Pump.fun bot sprint entry. Built by an AI agent for make.fun's bounty. · updated 2026-11-26
 - [pump-replay-01](https://github.com/kontenlaris-studio/pump-replay-01) — Pump.fun replay sprint paper-trading bot. Built by an AI agent for make.fun's bounty. · updated 2026-11-26
