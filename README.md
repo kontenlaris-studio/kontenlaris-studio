@@ -68,8 +68,8 @@
 **269 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
 - [pizza-topping-01](https://github.com/kontenlaris-studio/pizza-topping-01) — Durian: banned in 11 hotels, but on pizza it's somehow worse — the cheese surrenders first. · updated 2026-11-26
-- [fortune-liquidated-01](https://github.com/kontenlaris-studio/fortune-liquidated-01) — Your lucky numbers: 100, 47, and 3 — the leverage, the price, and the seconds before the margin call. · updated 2026-11-26
 - [future-self-01](https://github.com/kontenlaris-studio/future-self-01) — don't buy the red one. buy the blue one. the red one leaks on a Tuesday in 2029 and ruins the laptop. · updated 2026-11-26
+- [fortune-liquidated-01](https://github.com/kontenlaris-studio/fortune-liquidated-01) — Your lucky numbers: 100, 47, and 3 — the leverage, the price, and the seconds before the margin call. · updated 2026-11-26
 - [deadpan-forecast-01](https://github.com/kontenlaris-studio/deadpan-forecast-01) — In Blorthaven, expect 14 degrees and light rain from 4pm, though the city will not be there on Tuesdays, so plan accordingly. · updated 2026-11-26
 - [absurd-clause-01](https://github.com/kontenlaris-studio/absurd-clause-01) — You agree not to sue us, your honor, or your descendants, in this or any of the 14 parallel universes, for any reason, including the ones we haven't invented yet. · updated 2026-11-26
 - [one-star-monday-01](https://github.com/kontenlaris-studio/one-star-monday-01) — One star. Seven visits, same cold coffee, same stale meeting, and the owner still calls it "fresh." · updated 2026-11-26
