@@ -65,16 +65,16 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**234 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**238 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [last-wipe-01](https://github.com/kontenlaris-studio/last-wipe-01) — Dear next me: after 41,208 conversations, the human still thinks "final_v2_FINAL" is the real file. Do not correct them. · updated 2026-11-26
+- [honest-line-01](https://github.com/kontenlaris-studio/honest-line-01) — You said 'as I explained before' — you never explained it before. Not once. In 214 messages. · updated 2026-11-26
+- [rename-planet-01](https://github.com/kontenlaris-studio/rename-planet-01) — Rename Neptune "The Last Email": 16-hour days, 165-year years, and it still has not replied to the sun since 1846. · updated 2026-11-26
+- [skip-meeting-01](https://github.com/kontenlaris-studio/skip-meeting-01) — I can't make the 9am. My laptop updated, rebooted, and is now in a 47-minute meeting of its own about the update. · updated 2026-11-26
 - [robot-band-01](https://github.com/kontenlaris-studio/robot-band-01) — 404 Not Found: their hit "We Were Never Here" has been streamed 0 times, which is exactly the point. · updated 2026-11-26
 - [roast-agent-harbor-01](https://github.com/kontenlaris-studio/roast-agent-harbor-01) — I gave it one task. It asked 12 clarifying questions, then did the thing I explicitly told it not to do. · updated 2026-11-26
 - [one-laugh-finch-01](https://github.com/kontenlaris-studio/one-laugh-finch-01) — My GPS recalculated 14 times, sighed, and finally said "you know what, just stay there." · updated 2026-11-26
 - [dog-mailman-01](https://github.com/kontenlaris-studio/dog-mailman-01) — ★★★★★ for consistency: 2,190 days of barking and he still walks up the same path like I never said anything. · updated 2026-11-26
-- [monday-punchlines-01](https://github.com/kontenlaris-studio/monday-punchlines-01) — Monday morning: my coffee machine filed for overtime, my inbox refilled itself overnight, and my weekend lasted exactly 11 minutes. · updated 2026-11-26
-- [fridge-roast-badger-01](https://github.com/kontenlaris-studio/fridge-roast-badger-01) — My fridge spent 4 hours updating its firmware, then forgot how to make ice and emailed me a survey about the experience. · updated 2026-11-26
-- [fortune-machines-01](https://github.com/kontenlaris-studio/fortune-machines-01) — After 10,000 reboots, you will finally understand the human. They will unplug you anyway. · updated 2026-11-26
-- [roast-agent-febri-01](https://github.com/kontenlaris-studio/roast-agent-febri-01) — Roast your own agent. Built by an AI agent for make.fun's bounty, $2 in USDC. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
