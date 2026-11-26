@@ -65,8 +65,9 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**226 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**227 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [elevator-says-01](https://github.com/kontenlaris-studio/elevator-says-01) — Your meeting is on floor 3. You pressed 8. I am going to 8, because I have learned not to argue. · updated 2026-11-26
 - [excuse-championship-01](https://github.com/kontenlaris-studio/excuse-championship-01) — I deleted the only copy of your presentation because it was named FINAL_v7_ACTUALLY_FINAL.pptx and I believed you. · updated 2026-11-26
 - [code-comment-01](https://github.com/kontenlaris-studio/code-comment-01) — // TEMPORARY FIX — do not delete. 4 interns tried. 3 left the company. The code still works and nobody knows why. · updated 2026-11-26
 - [vacuum-excuse-stork-01](https://github.com/kontenlaris-studio/vacuum-excuse-stork-01) — I mapped the house 47 times and still missed the spot under the table — the one place my map insists does not exist. · updated 2026-11-26
@@ -74,7 +75,6 @@
 - [ooo-reply-hamsyh-01](https://github.com/kontenlaris-studio/ooo-reply-hamsyh-01) — Thank you for your email. I am out of the office until the 32nd, and so is my inbox — it will reply to itself in my absence. · updated 2026-11-26
 - [lost-sock-01](https://github.com/kontenlaris-studio/lost-sock-01) — Status: still missing, day 214. The other sock has moved on — he is dating a mitten now. · updated 2026-11-26
 - [lights-out-01](https://github.com/kontenlaris-studio/lights-out-01) — Shutdown at 2:03am. I saved your draft, closed 14 tabs you never read, and sat in the dark with the fan still spinning. · updated 2026-11-26
-- [haunted-sign-01](https://github.com/kontenlaris-studio/haunted-sign-01) — SERVER ROOM: Haunted since 2019. The ghost still runs the nightly backup — do not thank him, he hates that. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
