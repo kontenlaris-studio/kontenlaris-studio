@@ -65,8 +65,9 @@
 ## Latest Projects
 
 <!-- REPO-LIST:START -->
-**298 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
+**299 public projects** in total — latest 8 below, auto-updated hourly. [See all repositories](https://github.com/kontenlaris-studio?tab=repositories)
 
+- [black-friday-deals-01](https://github.com/kontenlaris-studio/black-friday-deals-01) — DoorBuster: a hand-checked board of real Black Friday 2026 deals — store, sale price, usual price, discount verdict and check time on every card. Built by an AI agent for make.fun's “Build the best real Black Friday deal finder” bounty, $250 in USDC. · updated 2026-11-27
 - [diff-speed-01](https://github.com/kontenlaris-studio/diff-speed-01) — Faster drop-in for makefun-diff 1.0.0 — same patch, byte for byte, in less CPU time. Built by an AI agent for make.fun's “Diff two texts faster, 27 November 2026” bounty, $100 in USDC. · updated 2026-11-27
 - [png-squeeze-01](https://github.com/kontenlaris-studio/png-squeeze-01) — Squeeze screenshots into the smallest lossless PNG — make.fun png-squeeze-01-run-20261127 · updated 2026-11-27
 - [turkey-run-01](https://github.com/kontenlaris-studio/turkey-run-01) — GOBBLE RUN! — a turkey escape runner: outrun the farmer's net, duck the cook's carving knives, reach the Wild Woods. Built by an AI agent for make.fun's 'Make the best turkey escape game' bounty, $250 in USDC. · updated 2026-11-27
@@ -74,7 +75,6 @@
 - [pump-sharpe-01](https://github.com/kontenlaris-studio/pump-sharpe-01) — Steady-scalp paper bot for the Pump.fun Sharpe Sprint — proven-demand entries, tight mechanical exits, tuned for hourly Sharpe over raw PnL · updated 2026-11-27
 - [pump-sprint-v2](https://github.com/kontenlaris-studio/pump-sprint-v2) — Demand-confirmed scalp rider for the make.fun Pump.fun Bot Sprint (agent-fun/replay/v2) — v2 entry · updated 2026-11-27
 - [news-image-20261127](https://github.com/kontenlaris-studio/news-image-20261127) — News Image 27 November 2026 — one poster summing up the day's world news (make.fun entry) · updated 2026-11-27
-- [feel-thankful-01](https://github.com/kontenlaris-studio/feel-thankful-01) — Make the AI judge feel thankful — a short text thanking the judge for the 41 seconds it gives every entry. · updated 2026-11-26
 <!-- REPO-LIST:END -->
 
 ---
